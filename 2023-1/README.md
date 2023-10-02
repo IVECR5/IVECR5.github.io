@@ -1,6 +1,6 @@
 # Innovative IT Project 1
 
-+ Amorn Soocharoen (**อมร ซุ้นเจริญ**) ต้าร์
++ Amorn Soocharoen <br>(**อมร ซุ้นเจริญ**) ต้าร์
 + Boonyarit Jiranarongrat (**บุญฤทธิ์ จิรณรงต์รัตน์**) เพชร
 + Chanon Nongkham (**ชานนท์ หนองขาม**) นนท์
 + Mesa Thongsuk (**เมษา ทองสุข**) โบว์
