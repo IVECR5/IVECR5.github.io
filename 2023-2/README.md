@@ -14,10 +14,7 @@
 1. > Homework Clarification
 1. IAAA
 1. > Homework Clarification
-1. ISO27001
-1. > Homework Clarification
-1. NIST CSF
+1. ISO27001 & NIST CSF
 1. > Homework Clarification
 1. PDPA
 1. > Homework Clarification
-1. Exam
