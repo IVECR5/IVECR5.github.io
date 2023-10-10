@@ -14,14 +14,10 @@
 1. Homework
 1. IAAA
 1. Homework
-1. Exam
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+1. ISO27001
+1. Homework
+1. NIST CSF
+1. Homework
+1. PDPA
+1. Homework
 1. Exam
