@@ -8,9 +8,7 @@
 1. > Homework Clarification
 1. Encryption (Cont'd)
 1. > Homework Clarification
-1. Hashing
-1. > Homework Clarification
-1. Digital Signature
+1. Hashing & Digital Signature
 1. > Homework Clarification
 1. IAAA
 1. > Homework Clarification
