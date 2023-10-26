@@ -3,9 +3,9 @@
 # Computer System Security
 
 ## Members
-+ [Natthanan Petdonthong](https://github.com/Natthanan2002)
-  + > xxx
-+ xx
++ Natthanan Petdonthong
+  + [GitHub](https://github.com/Natthanan2002)
++ []()
 + xx
 
 [What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
