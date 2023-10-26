@@ -8,7 +8,7 @@
     + [GitHub](https://github.com/Kittikan1810)
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
-    + [GitHub](https://github.com/aomnutza58
+    + [GitHub](https://github.com/aomnutza58)
 + Mintada Thongchai
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
