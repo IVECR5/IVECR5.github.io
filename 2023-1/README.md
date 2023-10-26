@@ -1,4 +1,4 @@
-# Innovative IT Project 1
+# Members
 
 + Amorn Soocharoen <br>(**อมร ซุ้นเจริญ**) ต้าร์
 + Boonyarit Jiranarongrat <br>(**บุญฤทธิ์ จิรณรงต์รัตน์**) เพชร
