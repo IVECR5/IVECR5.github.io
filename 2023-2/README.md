@@ -1,5 +1,9 @@
 # Computer System Security
 
+## Lecturer
++ Maykin Warasart
+    + เมฆินทร์ วรศาสตร์
+
 ## Members
 + Kittikan Subkhum
     + กิตติกานต์ ทรัพย์ขำ
