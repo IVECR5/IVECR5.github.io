@@ -42,6 +42,3 @@
 
 
 [What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
-
-
-[What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
