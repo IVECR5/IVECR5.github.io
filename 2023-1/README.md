@@ -1,5 +1,8 @@
 # Innovative IT Project 1
 
+## Lecturer
++ Maykin Warasart <br>(**เมฆินทร์ วรศาสตร์**)
+
 ## Members
 + Amorn Soocharoen <br>(**อมร ซุ้นเจริญ**) ต้าร์
 + Boonyarit Jiranarongrat <br>(**บุญฤทธิ์ จิรณรงต์รัตน์**) เพชร
@@ -15,6 +18,3 @@
 + Saysunee Koompaem <br>(**สายสุณี คุ้มเปี่ยม**) ไก่นา
 + Supawit Kunna <br>(**ศุภวิชญ์ คุณนะ**) เบนซ์
 + Tawan Sriwansiri <br>(**ตะวัน ศรีวรรณศิริ**) ตั้น
-
-## Lecturer
-+ Maykin Warasart <br>(**เมฆินทร์ วรศาสตร์**)
