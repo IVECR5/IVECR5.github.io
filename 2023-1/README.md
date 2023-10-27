@@ -15,11 +15,11 @@
 + Mesa Thongsuk
     + [เมษา ทองสุข](https://github.com/xmesax) - โบว์
 + Nadda Poemsin
-    + [นัดดา เพิ่มสิน](https://github.com/#) - เฟิร์น
+    + [นัดดา เพิ่มสิน](https://github.com/nadda16032544) - เฟิร์น
 + Natthaphon Prayutphon
-    + [ณัฎฐพร ประยุทธ์พร](https://github.com/#) - เมย์
+    + [ณัฎฐพร ประยุทธ์พร](https://github.com/maymae2002) - เมย์
 + Pacharapol Mooheng 
-    + [พัชรพล หมู่เฮง](https://github.com/#) - แบงค์
+    + [พัชรพล หมู่เฮง](https://github.com/pacharapol1303) - แบงค์
 + Pavinee Rongrach
     + [ภาวิณี รองราช](https://github.com/#) - ไอซ์
 + Phethrung Saejaew
