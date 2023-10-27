@@ -7,7 +7,7 @@
 
 ## Members
 + Amorn Soocharoen 
-    + [อมร ซุ้นเจริญ](#) ต้าร์
+    + [อมร ซุ้นเจริญ](https://github.com/amorn123) ต้าร์
 + Boonyarit Jiranarongrat 
     + [บุญฤทธิ์ จิรณรงต์รัตน์](#) เพชร
 + Chanon Nongkham
