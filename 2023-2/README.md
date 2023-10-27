@@ -3,6 +3,7 @@
 ## Lecturer
 + Maykin Warasart
     + เมฆินทร์ วรศาสตร์
+    + ເມຄິນ ວໍຣະສາດ, ຂວດ
 
 ## Members
 + Kittikan Subkhum
