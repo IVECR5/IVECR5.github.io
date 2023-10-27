@@ -21,16 +21,16 @@
 + Pacharapol Mooheng 
     + [พัชรพล หมู่เฮง](https://github.com/pacharapol1303) - แบงค์
 + Pavinee Rongrach
-    + [ภาวิณี รองราช](https://github.com/#) - ไอซ์
+    + [ภาวิณี รองราช](https://github.com/pavineer) - ไอซ์
 + Phethrung Saejaew
-    + [เพชรรุ้ง แซ่เจอว](https://github.com/#) - อาหลี
+    + [เพชรรุ้ง แซ่เจอว](https://github.com/phethrung) - อาหลี
 + Piyakarn Paianon
-    + [ปิยการ ไพอนนท์](https://github.com/#) - กาน
+    + [ปิยการ ไพอนนท์](https://github.com/karn14) - กาน
 + Saharat Tianmeng
-    + [สหรัฐ เทียนเหม็ง](https://github.com/#) - ปอนด์
+    + [สหรัฐ เทียนเหม็ง](https://github.com/saharat2544) - ปอนด์
 + Saysunee Koompaem
-    + [สายสุณี คุ้มเปี่ยม](https://github.com/#) - ไก่นา
+    + [สายสุณี คุ้มเปี่ยม](https://github.com/kaina26032545) - ไก่นา
 + Supawit Kunna
-    + [ศุภวิชญ์ คุณนะ](https://github.com/#) - เบนซ์
+    + [ศุภวิชญ์ คุณนะ](https://github.com/benzsupawit) - เบนซ์
 + Tawan Sriwansiri
-    + [ตะวัน ศรีวรรณศิริ](https://github.com/#) - ตั้น
+    + [ตะวัน ศรีวรรณศิริ](https://github.com/ztunz) - ตั้น
