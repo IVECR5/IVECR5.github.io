@@ -11,7 +11,7 @@
 + Boonyarit Jiranarongrat 
     + [บุญฤทธิ์ จิรณรงต์รัตน์](https://github.com/boonyarit-j) เพชร
 + Chanon Nongkham
-    + [ชานนท์ หนองขาม](https://github.com/#) นนท์
+    + [ชานนท์ หนองขาม](https://github.com/chanonza142800) นนท์
 + Mesa Thongsuk
     + [เมษา ทองสุข](https://github.com/#) โบว์
 + Nadda Poemsin
