@@ -25,7 +25,7 @@
     + [GitHub](https://github.com/NontawatstJo)
 + Pannathorn Wiwatpornpipat
     + ปัณณธร วิวัฒน์พรพิพัฒน์
-    + [GitHub](https://github.com/Toeng152))
+    + [GitHub](https://github.com/Toeng152)
 + Suriya Heoachan
     + สุริยา เหว่าจันทร์
     + [GitHub](https://github.com/SuriyaNongnot)
