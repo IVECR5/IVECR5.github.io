@@ -29,9 +29,11 @@
 + Pannathorn Wiwatpornpipat
     + ปัณณธร วิวัฒน์พรพิพัฒน์
     + [GitHub](https://github.com/Toeng152)
+    + [GitHub Page](https://toeng152.github.io/)
 + Suriya Heoachan
     + สุริยา เหว่าจันทร์
     + [GitHub](https://github.com/SuriyaNongnot)
+    + [GitHub Page](https://suriyanongnot.github.io/)
 + Tanakorn Pramualpollapat
     + ธนากร ประมวลพลภัตต์
     + [GitHub](https://github.com/tanakorn5670)
