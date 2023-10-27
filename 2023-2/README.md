@@ -1,7 +1,7 @@
 # Computer System Security
 
 ## Lecturer
-+ Maykin Warasart
++ [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
     + เมฆินทร์ วรศาสตร์
     + ເມຄິນ ວໍຣະສາດ, ຂວດ
 
