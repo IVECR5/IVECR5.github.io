@@ -8,6 +8,7 @@
 + Kittikan Subkhum
     + กิตติกานต์ ทรัพย์ขำ
     + [GitHub](https://github.com/Kittikan1810)
+    + [GitHub Page](https://Kittikan1810.github.io/)
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
     + [GitHub](https://github.com/aomnutza58)
