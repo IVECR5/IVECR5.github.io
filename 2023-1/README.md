@@ -7,30 +7,30 @@
 
 ## Members
 + Amorn Soocharoen 
-    + [อมร ซุ้นเจริญ](https://github.com/amorn123) ต้าร์
+    + [อมร ซุ้นเจริญ](https://github.com/amorn123) - ต้าร์
 + Boonyarit Jiranarongrat 
-    + [บุญฤทธิ์ จิรณรงต์รัตน์](https://github.com/boonyarit-j) เพชร
+    + [บุญฤทธิ์ จิรณรงต์รัตน์](https://github.com/boonyarit-j) - เพชร
 + Chanon Nongkham
-    + [ชานนท์ หนองขาม](https://github.com/chanonza142800) นนท์
+    + [ชานนท์ หนองขาม](https://github.com/chanonza142800) - นนท์
 + Mesa Thongsuk
-    + [เมษา ทองสุข](https://github.com/xmesax) โบว์
+    + [เมษา ทองสุข](https://github.com/xmesax) - โบว์
 + Nadda Poemsin
-    + [นัดดา เพิ่มสิน](https://github.com/#) เฟิร์น
+    + [นัดดา เพิ่มสิน](https://github.com/#) - เฟิร์น
 + Natthaphon Prayutphon
-    + [ณัฎฐพร ประยุทธ์พร](https://github.com/#) เมย์
+    + [ณัฎฐพร ประยุทธ์พร](https://github.com/#) - เมย์
 + Pacharapol Mooheng 
-    + [พัชรพล หมู่เฮง](https://github.com/#) แบงค์
+    + [พัชรพล หมู่เฮง](https://github.com/#) - แบงค์
 + Pavinee Rongrach
-    + [ภาวิณี รองราช](https://github.com/#) ไอซ์
+    + [ภาวิณี รองราช](https://github.com/#) - ไอซ์
 + Phethrung Saejaew
-    + [เพชรรุ้ง แซ่เจอว](https://github.com/#) อาหลี
+    + [เพชรรุ้ง แซ่เจอว](https://github.com/#) - อาหลี
 + Piyakarn Paianon
-    + [ปิยการ ไพอนนท์](https://github.com/#) กาน
+    + [ปิยการ ไพอนนท์](https://github.com/#) - กาน
 + Saharat Tianmeng
-    + [สหรัฐ เทียนเหม็ง](https://github.com/#) ปอนด์
+    + [สหรัฐ เทียนเหม็ง](https://github.com/#) - ปอนด์
 + Saysunee Koompaem
-    + [สายสุณี คุ้มเปี่ยม](https://github.com/#) ไก่นา
+    + [สายสุณี คุ้มเปี่ยม](https://github.com/#) - ไก่นา
 + Supawit Kunna
-    + [ศุภวิชญ์ คุณนะ](https://github.com/#) เบนซ์
+    + [ศุภวิชญ์ คุณนะ](https://github.com/#) - เบนซ์
 + Tawan Sriwansiri
-    + [ตะวัน ศรีวรรณศิริ](https://github.com/#) ตั้น
+    + [ตะวัน ศรีวรรณศิริ](https://github.com/#) - ตั้น
