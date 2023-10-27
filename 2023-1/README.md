@@ -13,7 +13,7 @@
 + Chanon Nongkham
     + [ชานนท์ หนองขาม](https://github.com/chanonza142800) นนท์
 + Mesa Thongsuk
-    + [เมษา ทองสุข](https://github.com/#) โบว์
+    + [เมษา ทองสุข](https://github.com/xmesax) โบว์
 + Nadda Poemsin
     + [นัดดา เพิ่มสิน](https://github.com/#) เฟิร์น
 + Natthaphon Prayutphon
