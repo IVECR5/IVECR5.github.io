@@ -35,6 +35,7 @@
 + Tanakorn Pramualpollapat
     + ธนากร ประมวลพลภัตต์
     + [GitHub](https://github.com/tanakorn5670)
+    + [GitHub Page](https://tanakorn5670.github.io/)
 + Wanussanai Karin
     + วนัสนัย กะริน
     + [GitHub](https://github.com/freel2545)
