@@ -1,4 +1,6 @@
 # Innovative IT Project 1
++ 19-4901-8502
++ โครงการนวัตกรรมทางเทคโนโลยีสารสนเทศ 1
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
