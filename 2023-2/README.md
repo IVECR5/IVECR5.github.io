@@ -1,4 +1,6 @@
 # Computer System Security
++ 19-4901-2006
++ ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
