@@ -15,6 +15,7 @@
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
     + [GitHub](https://github.com/aomnutza58)
+    + [GitHub Page](https://aomnutza58.github.io/)
 + Mintada Thongchai
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
