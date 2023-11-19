@@ -2,6 +2,14 @@
 + 19-4901-2006
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
+## Vocabulary
++ Authentication, Authorization, Availability
++ Confidentiality
++ Encryption
++ Hashing
++ Integrity
++ 
+
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")
@@ -54,6 +62,5 @@
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003)
-
 
 [What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
