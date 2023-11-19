@@ -3,12 +3,15 @@
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
 ## Vocabulary
-+ Authentication, Authorization, Availability
-+ Confidentiality
++ Asymmetric Encryption, Authentication, Authorization, Availability
++ Biometrics, Botnet
++ Ciphertext, Collision, Confidentiality
++ Decryption
 + Encryption
 + Hashing
 + Integrity
-+ 
++ Key
++ Symmetric Encryption
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
