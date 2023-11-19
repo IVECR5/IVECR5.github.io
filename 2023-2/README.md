@@ -14,8 +14,9 @@
 + Malware
 + Non-Repudiation
 + Patching, Penetration Testing, Phishing, Private Key, Public Key
-+ Ransomware
-+ Symmetric Encryption
++ Ransomware, Risk Assessment, Rootkit
++ SQL Injection, Social Engineering, Symmetric Encryption
++ Threat Model, Threat Vector
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
