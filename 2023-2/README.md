@@ -11,6 +11,10 @@
 + Hashing, Honey pot, Hybrid Encryption
 + Input Validation, Integrity, IP Address
 + Key
++ Malware
++ Non-Repudiation
++ Patching, Penetration Testing, Phishing, Private Key, Public Key
++ Ransomware
 + Symmetric Encryption
 
 ## Lecturer
