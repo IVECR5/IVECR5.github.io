@@ -6,10 +6,10 @@
 + Asymmetric Encryption, Authentication, Authorization, Availability
 + Biometrics, Botnet
 + Ciphertext, Collision, Confidentiality
-+ Decryption
++ Decryption, Denial of Service, Digital Signature
 + Encryption
-+ Hashing
-+ Integrity
++ Hashing, Honey pot, Hybrid Encryption
++ Input Validation, Integrity, IP Address
 + Key
 + Symmetric Encryption
 
