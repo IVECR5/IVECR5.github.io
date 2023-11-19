@@ -11,12 +11,15 @@
 + Hashing, Honey pot, Hybrid Encryption
 + Input Validation, Integrity, IP Address
 + Key
-+ Malware
++ Least Privilege
++ Malware, MD5
 + Non-Repudiation
 + Patching, Penetration Testing, Phishing, Private Key, Public Key
 + Ransomware, Risk Assessment, Rootkit
-+ SQL Injection, Social Engineering, Symmetric Encryption
++ Secure Shell (SSH), Session Hijacking, SQL Injection, Social Engineering, Symmetric Encryption
 + Threat Model, Threat Vector
++ Worm
++ Zero-day attack
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
