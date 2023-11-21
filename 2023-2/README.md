@@ -7,10 +7,8 @@
 + Biometrics, Botnet
 + Ciphertext, Collision, Confidentiality
 + Decryption, Denial of Service, Digital Signature
-+ [Encryption](https://witsarut42.github.io/Encryption)
 + Hashing, Honey pot, Hybrid Encryption
 + Input Validation, Integrity, IP Address
-+ [Key](https://witsarut42.github.io/Key)
 + Least Privilege
 + Malware, MD5
 + Non-Repudiation
@@ -18,7 +16,6 @@
 + Ransomware, Risk Assessment, Rootkit
 + Secure Shell (SSH), Session Hijacking, Social Engineering, SQL Injection, Symmetric Encryption
 + Threat Model, Threat Vector
-+ [Worm](https://witsarut42.github.io/Worm)
 + Zero-day attack
 
 ## Lecturer
@@ -70,6 +67,7 @@
     + วิศรุต คุณทั่งทอง
     + [GitHub](https://github.com/witsarut42)
     + [GitHub Page](https://witsarut42.github.io/)
+    + [Encryption](https://witsarut42.github.io/Encryption), [Key](https://witsarut42.github.io/Key), [Worm](https://witsarut42.github.io/Worm)
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003)
