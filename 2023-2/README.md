@@ -16,7 +16,7 @@
 + Non-Repudiation
 + Patching, Penetration Testing, Phishing, Private Key, Public Key
 + Ransomware, Risk Assessment, Rootkit
-+ Secure Shell (SSH), Session Hijacking, SQL Injection, Social Engineering, Symmetric Encryption
++ Secure Shell (SSH), Session Hijacking, Social Engineering, SQL Injection, Symmetric Encryption
 + Threat Model, Threat Vector
 + [Worm](https://witsarut42.github.io/Worm)
 + Zero-day attack
