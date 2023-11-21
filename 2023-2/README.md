@@ -7,10 +7,10 @@
 + Biometrics, Botnet
 + Ciphertext, Collision, Confidentiality
 + Decryption, Denial of Service, Digital Signature
-+ Encryption
++ [Encryption](https://witsarut42.github.io/Encryption)
 + Hashing, Honey pot, Hybrid Encryption
 + Input Validation, Integrity, IP Address
-+ Key
++ [Key](https://witsarut42.github.io/Key)
 + Least Privilege
 + Malware, MD5
 + Non-Repudiation
@@ -18,7 +18,7 @@
 + Ransomware, Risk Assessment, Rootkit
 + Secure Shell (SSH), Session Hijacking, SQL Injection, Social Engineering, Symmetric Encryption
 + Threat Model, Threat Vector
-+ Worm
++ [Worm](https://witsarut42.github.io/Worm)
 + Zero-day attack
 
 ## Lecturer
