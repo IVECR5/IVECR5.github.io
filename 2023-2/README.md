@@ -5,7 +5,7 @@
 ## Vocabulary
 + Asymmetric Encryption, Authentication, Authorization, Availability
 + Biometrics, Botnet
-+ Ciphertext, Collision, Confidentiality
++ Collision, Confidentiality
 + Decryption, Denial of Service, Digital Signature
 + Hashing, Honey pot, Hybrid Encryption
 + Input Validation, Integrity, IP Address
@@ -13,8 +13,8 @@
 + Malware, MD5
 + Non-Repudiation
 + Patching, Penetration Testing, Phishing, Private Key, Public Key
-+ Ransomware, Risk Assessment, Rootkit
-+ Secure Shell (SSH), Session Hijacking, Social Engineering, SQL Injection, Symmetric Encryption
++ Ransomware, Rootkit
++ Secure Shell (SSH), Session Hijacking, Social Engineering, Symmetric Encryption
 + Threat Model, Threat Vector
 + Zero-day attack
 
@@ -39,6 +39,7 @@
     + นราธิป ใยปางแก้ว
     + [GitHub](https://github.com/Mon5te2)
     + [GitHub Page](https://Mon5te2.github.io/)
+    + [Ciphertext](https://mon5te2.github.io/Ciphertext), [Risk Assessment](https://mon5te2.github.io/RiskAssessment), [SQL Injection](https://mon5te2.github.io/SQLinjection)
 + Natthanan Petdonthong
     + ณัฐนันท์ เพชรดอนทอง
     + [GitHub](https://github.com/Natthanan2002)
