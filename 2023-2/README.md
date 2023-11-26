@@ -4,7 +4,7 @@
 
 ## Vocabulary
 + Asymmetric Encryption, Authentication, Authorization, Availability
-+ Biometrics, Botnet
++ Botnet
 + Collision, Confidentiality
 + Decryption, Denial of Service, Digital Signature
 + Hashing, Honey pot, Hybrid Encryption
@@ -13,8 +13,8 @@
 + Malware, MD5
 + Non-Repudiation
 + Patching, Penetration Testing, Phishing, Private Key, Public Key
-+ Ransomware, Rootkit
-+ Secure Shell (SSH), Session Hijacking, Social Engineering, Symmetric Encryption
++ Rootkit
++ Session Hijacking, Social Engineering, Symmetric Encryption
 + Threat Model, Threat Vector
 + Zero-day attack
 
@@ -64,6 +64,7 @@
     + วนัสนัย กะริน
     + [GitHub](https://github.com/freel2545)
     + [GitHub Page](https://freel2545.github.io/)
+    + [Biometrics](https://freel2545.github.io/Biometrics), [Ransomware](https://freel2545.github.io/Ransomware), [Secure Shell (SSH)](https://freel2545.github.io/SecureShell)
 + Witsarut Khuntangtong
     + วิศรุต คุณทั่งทอง
     + [GitHub](https://github.com/witsarut42)
