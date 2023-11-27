@@ -7,7 +7,7 @@
 + Botnet
 + Collision, Confidentiality
 + Denial of Service, Digital Signature
-+ Hashing, Honey pot, Hybrid Encryption
++ Hashing, Honey pot
 + Input Validation, Integrity, IP Address
 + Least Privilege
 + Malware
@@ -28,7 +28,7 @@
     + กิตติกานต์ ทรัพย์ขำ
     + [GitHub](https://github.com/Kittikan1810)
     + [GitHub Page](https://Kittikan1810.github.io/)
-    + [Decryption](https://kittikan1810.github.io/Decrytion), [Hybrid Encryption](https://kittikan1810.github.io/Hybrid_encrytion), [MD5](https://kittikan1810.github.io/MD5)
+    + [Decryption](https://kittikan1810.github.io/Decryption), [Hybrid Encryption](https://kittikan1810.github.io/Hybrid_encryption), [MD5](https://kittikan1810.github.io/MD5)
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
     + [GitHub](https://github.com/aomnutza58)
