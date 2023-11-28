@@ -3,7 +3,7 @@
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
 ## Vocabulary
-+ Asymmetric Encryption, Authentication, Authorization, Availability
++ Asymmetric Encryption, Authorization, Availability
 + Botnet
 + Collision, Confidentiality
 + Denial of Service, Digital Signature
@@ -33,6 +33,7 @@
     + กิตติพัฒน์ ประสพสุวรรณ
     + [GitHub](https://github.com/aomnutza58)
     + [GitHub Page](https://aomnutza58.github.io/)
+    + [Authentication](https://aomnutza58.github.io/Authentication),
 + Mintada Thongchai
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
