@@ -3,10 +3,10 @@
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
 ## Vocabulary
-+ Asymmetric Encryption, Authorization, Availability
++ Authorization, Availability
 + Botnet
 + Collision, Confidentiality
-+ Denial of Service, Digital Signature
++ Digital Signature
 + Hashing, Honey pot
 + Input Validation, Integrity, IP Address
 + Least Privilege
@@ -33,7 +33,7 @@
     + กิตติพัฒน์ ประสพสุวรรณ
     + [GitHub](https://github.com/aomnutza58)
     + [GitHub Page](https://aomnutza58.github.io/)
-    + [Authentication](https://aomnutza58.github.io/Authentication),
+    + [Asymmetric Encryption](https://aomnutza58.github.io/asymmetric_encryption), [Authentication](https://aomnutza58.github.io/Authentication), [Denial of Service](https://aomnutza58.github.io/denial_of_service), 
 + Mintada Thongchai
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
