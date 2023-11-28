@@ -18,6 +18,9 @@
 + Threat Model, Threat Vector
 + Zero-day attack
 
+## Online Class
++ [Nov 28, 2023](https://youtu.be/--J-o7B9L3E)
+
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")
