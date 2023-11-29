@@ -80,4 +80,5 @@
 
 ## Misc.
 + [What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
-+ [Docker, aws](https://aws.amazon.com/th/docker/)
++ [Docker by aws](https://aws.amazon.com/th/docker/)
++ [Container in Azure](https://learn.microsoft.com/en-us/training/paths/administer-containers-in-azure/)
