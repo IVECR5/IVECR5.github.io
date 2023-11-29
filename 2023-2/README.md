@@ -78,4 +78,6 @@
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003)
 
-[What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
+## Misc.
++ [What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
++ [Docker, aws](https://aws.amazon.com/th/docker/)
