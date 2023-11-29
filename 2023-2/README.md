@@ -4,19 +4,17 @@
 
 ## Vocabulary
 + Authorization, Availability
-+ Botnet
++ Base64
 + Collision, Confidentiality
 + Digital Signature
 + Hashing, Honey pot
 + Input Validation, Integrity, IP Address
 + Least Privilege
-+ Malware
 + Non-Repudiation
 + Patching, Penetration Testing, Phishing, Private Key, Public Key
 + Rootkit
 + Session Hijacking, Social Engineering, Symmetric Encryption
 + Threat Model, Threat Vector
-+ Zero-day attack
 
 ## Online Class
 + [Nov 28, 2023](https://youtu.be/--J-o7B9L3E)
@@ -53,6 +51,7 @@
     + นนทวรรธ สังข์ทอง
     + [GitHub](https://github.com/NontawatstJo)
     + [GitHub Page](https://nontawatstjo.github.io/)
+    + [Botnet](https://nontawatstjo.github.io/Botnet), [Malware](https://nontawatstjo.github.io/Malware), [Zero-day attack](https://nontawatstjo.github.io/Zero-day-attack)
 + Pannathorn Wiwatpornpipat
     + ปัณณธร วิวัฒน์พรพิพัฒน์
     + [GitHub](https://github.com/Toeng152)
