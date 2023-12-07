@@ -18,6 +18,7 @@
 
 ## Online Class
 + [Nov 28, 2023](https://youtu.be/--J-o7B9L3E)
++ [Dec 7, 2023](https://youtu.be/PjfmIVBiMx4)
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
