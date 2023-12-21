@@ -82,6 +82,7 @@
     + [GitHub](https://github.com/kQx2003)
 
 ## Misc.
++ [SonarSource static code analysis](https://rules.sonarsource.com/)
 + [What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
 + [Docker by aws](https://aws.amazon.com/th/docker/)
 + [Container in Azure](https://learn.microsoft.com/en-us/training/paths/administer-containers-in-azure/)
