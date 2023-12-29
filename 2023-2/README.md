@@ -83,7 +83,9 @@
     + [GitHub](https://github.com/witsarut42)
     + [GitHub Page](https://witsarut42.github.io/)
     + [Encryption](https://witsarut42.github.io/Encryption), [Key](https://witsarut42.github.io/Key), [Worm](https://witsarut42.github.io/Worm)
-    + [LCSI](#)
+    + Cert(s)
+        + [LCSI](https://witsarut42.github.io/Cert/LINK/LCSI.pdf)
+        + [Intro to Cybersecurity](https://witsarut42.github.io/Cert/Cisco/IntroductionCybersecurity.pdf) - Cisco
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003)
