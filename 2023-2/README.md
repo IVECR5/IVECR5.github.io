@@ -36,7 +36,11 @@
     + กิตติพัฒน์ ประสพสุวรรณ
     + [GitHub](https://github.com/aomnutza58)
     + [GitHub Page](https://aomnutza58.github.io/)
-    + [Asymmetric Encryption](https://aomnutza58.github.io/asymmetric_encryption), [Authentication](https://aomnutza58.github.io/Authentication), [Denial of Service](https://aomnutza58.github.io/denial_of_service), 
+    + [Asymmetric Encryption](https://aomnutza58.github.io/asymmetric_encryption), [Authentication](https://aomnutza58.github.io/Authentication), [Denial of Service](https://aomnutza58.github.io/denial_of_service) 
+    + Cert(s)
+        + [Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR)](https://aomnutza58.github.io/CERTENCOR.html)
+        + [Implementing Cisco Nexus Switches](https://aomnutza58.github.io/CERTNEXUS.html)
+        + [WLAN Fundamental](https://aomnutza58.github.io/CERTWLAN.html)
 + Mintada Thongchai
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
