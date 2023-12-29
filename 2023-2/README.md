@@ -2,20 +2,6 @@
 + 19-4901-2006
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
-## Vocabulary
-+ Authorization, Availability
-+ Base64
-+ Collision, Confidentiality
-+ Digital Signature
-+ Hashing, Honey pot
-+ Input Validation, Integrity, IP Address
-+ Least Privilege
-+ Non-Repudiation
-+ Patching, Penetration Testing, Phishing, Private Key, Public Key
-+ Rootkit
-+ Session Hijacking, Social Engineering, Symmetric Encryption
-+ Threat Model, Threat Vector
-
 ## Online Class
 + [Nov 28, 2023](https://youtu.be/--J-o7B9L3E)
 + [Dec 7, 2023](https://youtu.be/PjfmIVBiMx4)
@@ -23,8 +9,7 @@
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
-    + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")
-    + ເມຄິນ ວໍຣະສາດ, ຂວດ
+    + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์") (ເມຄິນ ວໍຣະສາດ, ຂວດ)
 
 ## Members
 + Kittikan Subkhum
@@ -89,6 +74,20 @@
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003)
+
+## Vocabulary
++ Authorization, Availability
++ Base64
++ Collision, Confidentiality
++ Digital Signature
++ Hashing, Honey pot
++ Input Validation, Integrity, IP Address
++ Least Privilege
++ Non-Repudiation
++ Patching, Penetration Testing, Phishing, Private Key, Public Key
++ Rootkit
++ Session Hijacking, Social Engineering, Symmetric Encryption
++ Threat Model, Threat Vector
 
 ## Misc.
 + [SonarSource static code analysis](https://rules.sonarsource.com/)
