@@ -22,8 +22,8 @@
     + [GitHub](https://github.com/aomnutza58)
     + [GitHub Page](https://aomnutza58.github.io/)
     + [Asymmetric Encryption](https://aomnutza58.github.io/asymmetric_encryption), [Authentication](https://aomnutza58.github.io/Authentication), [Denial of Service](https://aomnutza58.github.io/denial_of_service) 
-    + [Steganography](https://aomnutza58.github.io/Steganography.html) - New Year Card
-        + https://www.edchart.com/free-online-converters/steganographic-decoder.php
+    + [Steganography](https://aomnutza58.github.io/Steganography.html)
+        + [New Year Card](https://www.edchart.com/free-online-converters/steganographic-decoder.php)
     + Cert(s)
         + [Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR)](https://aomnutza58.github.io/CERTENCOR.html)
         + [Implementing Cisco Nexus Switches](https://aomnutza58.github.io/CERTNEXUS.html)
@@ -70,7 +70,8 @@
     + [GitHub](https://github.com/witsarut42)
     + [GitHub Page](https://witsarut42.github.io/)
     + [Encryption](https://witsarut42.github.io/Encryption), [Key](https://witsarut42.github.io/Key), [Worm](https://witsarut42.github.io/Worm)
-    + [Steganography](https://witsarut42.github.io/Card) - New Year Card
+    + [Steganography](https://witsarut42.github.io/Card)
+        + [New Year Card](https://stylesuxx.github.io/steganography/)
     + Cert(s)
         + [LCSI](https://witsarut42.github.io/Cert/LINK/LCSI.pdf)
         + [Intro to Cybersecurity](https://witsarut42.github.io/Cert/Cisco/IntroductionCybersecurity.pdf) - Cisco
