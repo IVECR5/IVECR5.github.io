@@ -40,7 +40,8 @@
     + ณัฐนันท์ เพชรดอนทอง
     + [GitHub](https://github.com/Natthanan2002)
     + [GitHub Page](https://natthanan2002.github.io/)
-    + [Steganography](https://natthanan2002.github.io/NewYearCard) - New Year Card
+    + [Steganography](https://natthanan2002.github.io/NewYearCard)
+        + New Year Card
 + Nontawat Sungtong
     + นนทวรรธ สังข์ทอง
     + [GitHub](https://github.com/NontawatstJo)
