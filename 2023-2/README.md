@@ -95,6 +95,7 @@
 + Threat Model, Threat Vector
 
 ## Misc.
++ [ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams](https://www.isc2.org/landing/1mcc)
 + [SonarSource static code analysis](https://rules.sonarsource.com/)
 + [What is the difference between usability and user experience?](https://www.facebook.com/photo?fbid=752443273561861)
 + [Docker by aws](https://aws.amazon.com/th/docker/)
