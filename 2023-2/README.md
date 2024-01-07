@@ -23,7 +23,7 @@
     + [GitHub Page](https://aomnutza58.github.io/)
     + [Asymmetric Encryption](https://aomnutza58.github.io/asymmetric_encryption), [Authentication](https://aomnutza58.github.io/Authentication), [Denial of Service](https://aomnutza58.github.io/denial_of_service) 
     + [Steganography](https://www.edchart.com/free-online-converters/steganographic-decoder.php)
-        + [New Year Card](https://aomnutza58.github.io/Steganography.html)
+        + [New Year Card](https://aomnutza58.github.io/Steganography)
     + Cert(s)
         + [Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR)](https://aomnutza58.github.io/CERTENCOR.html)
         + [Implementing Cisco Nexus Switches](https://aomnutza58.github.io/CERTNEXUS.html)
