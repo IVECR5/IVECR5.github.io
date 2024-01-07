@@ -42,6 +42,7 @@
     + ณัฐนันท์ เพชรดอนทอง
     + [GitHub](https://github.com/Natthanan2002)
     + [GitHub Page](https://natthanan2002.github.io/)
+    + [Base64](https://natthanan2002.github.io/Base64)
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://natthanan2002.github.io/NewYearCard)
 + Nontawat Sungtong
@@ -91,7 +92,6 @@
 
 ## Vocabulary
 + Authorization, Availability
-+ Base64
 + Collision, Confidentiality
 + Digital Signature
 + Hashing, Honey pot
