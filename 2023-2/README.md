@@ -22,8 +22,8 @@
     + [GitHub](https://github.com/aomnutza58)
     + [GitHub Page](https://aomnutza58.github.io/)
     + [Asymmetric Encryption](https://aomnutza58.github.io/asymmetric_encryption), [Authentication](https://aomnutza58.github.io/Authentication), [Denial of Service](https://aomnutza58.github.io/denial_of_service) 
-    + [Steganography](https://aomnutza58.github.io/Steganography.html)
-        + [New Year Card](https://www.edchart.com/free-online-converters/steganographic-decoder.php)
+    + [Steganography](https://www.edchart.com/free-online-converters/steganographic-decoder.php)
+        + [New Year Card](https://aomnutza58.github.io/Steganography.html)
     + Cert(s)
         + [Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR)](https://aomnutza58.github.io/CERTENCOR.html)
         + [Implementing Cisco Nexus Switches](https://aomnutza58.github.io/CERTNEXUS.html)
@@ -36,12 +36,14 @@
     + [GitHub](https://github.com/Mon5te2)
     + [GitHub Page](https://Mon5te2.github.io/)
     + [Ciphertext](https://mon5te2.github.io/Ciphertext), [Risk Assessment](https://mon5te2.github.io/RiskAssessment), [SQL Injection](https://mon5te2.github.io/SQLinjection)
+    + [Steganography](https://stylesuxx.github.io/steganography/)
+        + [New Year Card](https://mon5te2.github.io/Card)
 + Natthanan Petdonthong
     + ณัฐนันท์ เพชรดอนทอง
     + [GitHub](https://github.com/Natthanan2002)
     + [GitHub Page](https://natthanan2002.github.io/)
-    + [Steganography](https://natthanan2002.github.io/NewYearCard)
-        + New Year Card
+    + [Steganography](#)
+        + [New Year Card](https://natthanan2002.github.io/NewYearCard)
 + Nontawat Sungtong
     + นนทวรรธ สังข์ทอง
     + [GitHub](https://github.com/NontawatstJo)
@@ -71,8 +73,8 @@
     + [GitHub](https://github.com/witsarut42)
     + [GitHub Page](https://witsarut42.github.io/)
     + [Encryption](https://witsarut42.github.io/Encryption), [Key](https://witsarut42.github.io/Key), [Worm](https://witsarut42.github.io/Worm)
-    + [Steganography](https://witsarut42.github.io/Card)
-        + [New Year Card](https://stylesuxx.github.io/steganography/)
+    + [Steganography](https://stylesuxx.github.io/steganography/)
+        + [New Year Card](https://witsarut42.github.io/Card)
     + Cert(s)
         + [LCSI](https://witsarut42.github.io/Cert/LINK/LCSI.pdf)
         + [Intro to Cybersecurity](https://witsarut42.github.io/Cert/Cisco/IntroductionCybersecurity.pdf) - Cisco
