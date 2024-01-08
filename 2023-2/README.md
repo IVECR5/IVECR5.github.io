@@ -33,6 +33,7 @@
 + Mintada Thongchai
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
+    + [GitHub Page](https://minfluk.github.io/)
 + Naratip Yaipangkaew
     + นราธิป ใยปางแก้ว
     + [GitHub](https://github.com/Mon5te2)
