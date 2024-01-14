@@ -47,7 +47,7 @@
     + ณัฐนันท์ เพชรดอนทอง
     + [GitHub](https://github.com/Natthanan2002)
     + [GitHub Page](https://natthanan2002.github.io/)
-    + [Base64](https://natthanan2002.github.io/Base64), [Honey pot](https://natthanan2002.github.io/HoneyPot)
+    + [Base64](https://natthanan2002.github.io/Base64), [Honey pot](https://natthanan2002.github.io/HoneyPot), [Non-Repudiation](https://natthanan2002.github.io/Non-Repudiation)
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://natthanan2002.github.io/NewYearCard)
 + Nontawat Sungtong
@@ -102,7 +102,6 @@
 + Hashing
 + Input Validation, Integrity, IP Address
 + Least Privilege
-+ Non-Repudiation
 + Patching, Penetration Testing, Phishing, Private Key, Public Key
 + Rootkit
 + Session Hijacking, Social Engineering, Symmetric Encryption
