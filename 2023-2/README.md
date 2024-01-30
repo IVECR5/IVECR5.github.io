@@ -88,6 +88,7 @@
     + Cert(s)
         + [LCSI](https://witsarut42.github.io/Cert/LINK/LCSI.pdf)
         + [Intro to Cybersecurity](https://witsarut42.github.io/Cert/Cisco/IntroductionCybersecurity.pdf) - Cisco
+        + [ISC2 CC](https://witsarut42.github.io/Cert/ISC2/ISC2%201M.pdf)
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003)
