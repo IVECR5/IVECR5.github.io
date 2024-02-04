@@ -43,6 +43,7 @@
     + [Ciphertext](https://mon5te2.github.io/Ciphertext), [Risk Assessment](https://mon5te2.github.io/RiskAssessment), [SQL Injection](https://mon5te2.github.io/SQLinjection)
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://mon5te2.github.io/Card)
+    + [PDPA](https://mon5te2.github.io/PDPA)
 + Natthanan Petdonthong
     + ณัฐนันท์ เพชรดอนทอง
     + [GitHub](https://github.com/Natthanan2002)
@@ -89,6 +90,7 @@
         + [LCSI](https://witsarut42.github.io/Cert/LINK/LCSI.pdf)
         + [Intro to Cybersecurity](https://witsarut42.github.io/Cert/Cisco/IntroductionCybersecurity.pdf) - Cisco
         + [ISC2 CC](https://witsarut42.github.io/Cert/ISC2/ISC2%201M.pdf)
+    + [PDPA](https://witsarut42.github.io/PDPA)
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003)
