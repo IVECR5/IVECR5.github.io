@@ -99,6 +99,8 @@
     + [GitHub Page](https://kqx2003.github.io/)
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://kqx2003.github.io/Steganography)
+    + Cert(s)
+        + [FCA](https://kqx2003.github.io/fortigate)
 
 ## Vocabulary
 + Authorization, Availability
