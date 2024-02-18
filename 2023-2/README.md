@@ -30,6 +30,7 @@
         + [Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR)](https://aomnutza58.github.io/CERTENCOR.html)
         + [Implementing Cisco Nexus Switches](https://aomnutza58.github.io/CERTNEXUS.html)
         + [WLAN Fundamental](https://aomnutza58.github.io/CERTWLAN.html)
+        + [FCF](https://aomnutza58.github.io/CertFCF)
 + Mintada Thongchai
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
@@ -97,6 +98,7 @@
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003)
     + [GitHub Page](https://kqx2003.github.io/)
+    + [Hashing](https://kqx2003.github.io/Hashing), [Penetration Testing](https://kqx2003.github.io/PenetrationTesting),[Phishing](https://kqx2003.github.io/Phishing)
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://kqx2003.github.io/Steganography)
     + Cert(s)
@@ -106,10 +108,9 @@
 + Authorization, Availability
 + Collision, Confidentiality
 + Digital Signature
-+ Hashing
 + Input Validation, Integrity, IP Address
 + Least Privilege
-+ Patching, Penetration Testing, Phishing, Private Key, Public Key
++ Patching, Private Key, Public Key
 + Rootkit
 + Session Hijacking, Social Engineering, Symmetric Encryption
 + Threat Model, Threat Vector
