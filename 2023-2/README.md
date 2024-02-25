@@ -65,6 +65,8 @@
     + ปัณณธร วิวัฒน์พรพิพัฒน์
     + [GitHub](https://github.com/Toeng152)
     + [GitHub Page](https://toeng152.github.io/)
+    + Cert(s)
+        + [FCA](https://toeng152.github.io/fortigate)
     + [PDPA](https://toeng152.github.io/PDPA)
 + Suriya Heoachan
     + สุริยา เหว่าจันทร์
