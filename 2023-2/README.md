@@ -87,7 +87,7 @@
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://freel2545.github.io/Steganography) 
     + Cert(s)
-        + [FCA](https://freel2545.github.io/Cert_FortiGate7.4.html)
+        + [FCA](https://freel2545.github.io/Cert_FortiGate7.4)
 + Witsarut Khuntangtong
     + วิศรุต คุณทั่งทอง
     + [GitHub](https://github.com/witsarut42)
