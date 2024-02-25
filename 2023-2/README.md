@@ -35,6 +35,7 @@
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
     + [GitHub Page](https://minfluk.github.io/)
+    + Digital Signature, Rootkit, Symmetric Encryption
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://minfluk.github.io/Steganography)
     + Cert(s)
@@ -118,12 +119,10 @@
 ## Vocabulary
 + Authorization, Availability
 + Collision, Confidentiality
-+ Digital Signature
 + Input Validation, Integrity, IP Address
 + Least Privilege
 + Patching, Private Key, Public Key
-+ Rootkit
-+ Session Hijacking, Social Engineering, Symmetric Encryption
++ Session Hijacking, Social Engineering
 + Threat Model, Threat Vector
 
 ## Misc.
