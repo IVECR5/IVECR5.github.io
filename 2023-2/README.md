@@ -78,6 +78,7 @@
     + ธนากร ประมวลพลภัตต์
     + [GitHub](https://github.com/tanakorn5670)
     + [GitHub Page](https://tanakorn5670.github.io/)
+    + Authorization, Least Privilege, Threat Vector
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://tanakorn5670.github.io/card)
 + Wanussanai Karin
@@ -118,13 +119,12 @@
 
 
 ## Vocabulary
-+ Authorization, Availability
++ Availability
 + Collision, Confidentiality
 + Input Validation, Integrity, IP Address
-+ Least Privilege
 + Patching, Private Key, Public Key
 + Session Hijacking, Social Engineering
-+ Threat Model, Threat Vector
++ Threat Model
 
 ## Misc.
 + [ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams](https://www.isc2.org/landing/1mcc)
