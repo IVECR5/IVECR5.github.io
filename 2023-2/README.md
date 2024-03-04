@@ -36,7 +36,7 @@
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
     + [GitHub Page](https://minfluk.github.io/)
-    + Digital Signature, Rootkit, Symmetric Encryption
+    + [Digital Signature](https://minfluk.github.io/DigitalSignature), [Rootkit](https://minfluk.github.io/Rootkit), [Symmetric Encryption](https://minfluk.github.io/SymmetricEncryption)
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://minfluk.github.io/Steganography)
     + Cert(s)
