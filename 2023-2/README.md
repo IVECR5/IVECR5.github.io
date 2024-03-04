@@ -85,6 +85,7 @@
     + [Steganography](https://stylesuxx.github.io/steganography/)
         + [New Year Card](https://tanakorn5670.github.io/card)
     + Cert(s)
+        + [FCF](https://tanakorn5670.github.io/FortinetCertifiedFundamentalsCybersecurity)
         + [Intro to Dark Web](https://tanakorn5670.github.io/SecBlueTeam)
 + Wanussanai Karin
     + วนัสนัย กะริน
