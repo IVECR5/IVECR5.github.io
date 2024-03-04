@@ -103,6 +103,7 @@
         + [LCSI](https://witsarut42.github.io/Cert/LINK/LCSI.pdf)
         + [Intro to Cybersecurity](https://witsarut42.github.io/Cert/Cisco/IntroductionCybersecurity.pdf) - Cisco
         + [ISC2 CC](https://witsarut42.github.io/Cert/ISC2/ISC2%201M.pdf)
+        + [Intro to Dark Web](https://witsarut42.github.io/Cert/Introduction-to-Dark-Web-Operations-Course/Introduction-to-Dark-Web-Operations-course.pdf)
     + [PDPA](https://witsarut42.github.io/PDPA)
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
