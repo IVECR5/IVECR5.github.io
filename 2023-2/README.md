@@ -31,6 +31,7 @@
         + [Implementing Cisco Nexus Switches](https://aomnutza58.github.io/CERTNEXUS.html)
         + [WLAN Fundamental](https://aomnutza58.github.io/CERTWLAN.html)
         + [FCF](https://aomnutza58.github.io/CertFCF)
+    + [PDPA](https://aomnutza58.github.io/PDPA)
 + Mintada Thongchai
     + มิณฐดา ทองไชย
     + [GitHub](https://github.com/MinFluk)
