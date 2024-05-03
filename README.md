@@ -10,5 +10,5 @@
 
 ---
 
-* Institute of Vacational Education : Central Region 5
+* Institute of Vocational Education : Central Region 5
 * สถาบันการอาชีวศึกษาภาคกลาง 5
