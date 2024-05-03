@@ -10,6 +10,5 @@
 
 ---
 
-* Institute of Vocational Education : Central Region 5
-* สถาบันการอาชีวศึกษาภาคกลาง 5
+* Institute of Vocational Education : Central Region 5 (สถาบันการอาชีวศึกษาภาคกลาง 5)
 * [2023](https://mayk.in/appoint/2023-07-25_IVECR5.pdf)
