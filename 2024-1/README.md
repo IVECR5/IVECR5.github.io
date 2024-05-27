@@ -1,4 +1,4 @@
-# Innovative IT Project 1
+# IT Innovation Project 1
 + โครงการนวัตกรรมทางเทคโนโลยีสารสนเทศ 1
 
 ## Lecturer
