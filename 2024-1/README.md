@@ -4,6 +4,8 @@
 
 [![Opening](Opening.png "เปิดคอร์ส")](https://www.facebook.com/photo/?fbid=10229483476165196)
 
++ [July 2 (or 4,), 2024](Slide/Day1_Course-Introduction_v1.0.pdf)
+
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")
