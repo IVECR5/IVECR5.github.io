@@ -44,9 +44,10 @@
 + Wanussanai Karin
     + วนัสนัย กะริน
     + [GitHub](https://github.com/freel2545), [GitHub Page](https://freel2545.github.io/)
-    + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/d22a2c25-c778-4c5d-8e57-be2eba2a70fc)
-    + [Fundamentals of Agile Project Management](https://www.credly.com/badges/45ae076d-5e02-4205-a3dc-dda9b0593cae)
-    + [Generative AI Overview for Project Managers](https://www.credly.com/badges/05d1a3b1-fac6-4131-a4d7-1eed7491b44a)
+    + Project Management - Self Study
+        + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/d22a2c25-c778-4c5d-8e57-be2eba2a70fc)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/45ae076d-5e02-4205-a3dc-dda9b0593cae)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/05d1a3b1-fac6-4131-a4d7-1eed7491b44a)
 
 + Witsarut Khuntangtong
     + วิศรุต คุณทั่งทอง
