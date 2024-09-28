@@ -6,6 +6,7 @@
 
 ## Classes
 + [July 2 (or 4), 2024](Slide/Day1_Course-Introduction_v1.0.pdf)
++ July 9, July 11, July 16, July 19, July 23, July 30, Aug 6, Aug 25, Aug 27, Sep 1, Sep 25, Sep 28 
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
