@@ -64,3 +64,4 @@
 
 ## Special Activity
 + HPE Aruba
+    + ![HPE Aruba](Aruba/001.jpg) ![HPE Aruba](Aruba/002.jpg) ![HPE Aruba](Aruba/003.jpg) ![HPE Aruba](Aruba/004.jpg) ![HPE Aruba](Aruba/005.jpg) 
