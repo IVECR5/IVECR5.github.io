@@ -28,7 +28,7 @@
     
 + Naratip Yaipangkaew
     + นราธิป ใยปางแก้ว
-    + [GitHub](https://github.com/Mon5te2), [GitHub Page](https://Mon5te2.github.io/)
+    + [GitHub](https://github.com/Mon5te2), [GitHub Page](https://Mon5te2.github.io/), [Credly](https://www.credly.com/users/monster_z)
     + Project Management - Self Study
         + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/d459da1b-39e7-4ee2-bfc8-77d1f25526e4)
         + [Fundamentals of Agile Project Management](https://www.credly.com/badges/6a668122-6428-4e7d-a102-00b0f92db498)
@@ -48,7 +48,7 @@
 
 + Wanussanai Karin
     + วนัสนัย กะริน
-    + [GitHub](https://github.com/freel2545), [GitHub Page](https://freel2545.github.io/)
+    + [GitHub](https://github.com/freel2545), [GitHub Page](https://freel2545.github.io/), [Credly](#)
     + Project Management - Self Study
         + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/d22a2c25-c778-4c5d-8e57-be2eba2a70fc)
         + [Fundamentals of Agile Project Management](https://www.credly.com/badges/45ae076d-5e02-4205-a3dc-dda9b0593cae)
