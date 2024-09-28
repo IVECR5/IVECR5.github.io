@@ -29,6 +29,10 @@
 + Naratip Yaipangkaew
     + นราธิป ใยปางแก้ว
     + [GitHub](https://github.com/Mon5te2), [GitHub Page](https://Mon5te2.github.io/)
+    + Project Management - Self Study
+        + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/d459da1b-39e7-4ee2-bfc8-77d1f25526e4)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/6a668122-6428-4e7d-a102-00b0f92db498)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/281d9617-54c8-47cb-b54b-ebad43671af2)
 
 + Natthanan Petdonthong
     + ณัฐนันท์ เพชรดอนทอง
