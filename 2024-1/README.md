@@ -24,7 +24,11 @@
     
 + Mintada Thongchai
     + มิณฐดา ทองไชย
-    + [GitHub](https://github.com/MinFluk), [GitHub Page](https://minfluk.github.io/)
+    + [GitHub](https://github.com/MinFluk), [GitHub Page](https://minfluk.github.io/), [Credly](https://www.credly.com/users/fluk)
+    + Project Management - Self Study
+        + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/6f18257c-66d7-454e-8ecb-b481e98ce234)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/230d3a21-6964-4d85-848d-7f203af96afd)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/91c5d7af-dbf1-45f3-9ce9-61c0dba3a9c6)
     
 + Naratip Yaipangkaew
     + นราธิป ใยปางแก้ว
