@@ -48,7 +48,7 @@
 
 + Wanussanai Karin
     + วนัสนัย กะริน
-    + [GitHub](https://github.com/freel2545), [GitHub Page](https://freel2545.github.io/), [Credly](#)
+    + [GitHub](https://github.com/freel2545), [GitHub Page](https://freel2545.github.io/), [Credly](https://www.credly.com/users/freel5)
     + Project Management - Self Study
         + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/d22a2c25-c778-4c5d-8e57-be2eba2a70fc)
         + [Fundamentals of Agile Project Management](https://www.credly.com/badges/45ae076d-5e02-4205-a3dc-dda9b0593cae)
