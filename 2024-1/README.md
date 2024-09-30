@@ -60,7 +60,11 @@
 
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
-    + [GitHub](https://github.com/kQx2003), [GitHub Page](https://kqx2003.github.io/)
+    + [GitHub](https://github.com/kQx2003), [GitHub Page](https://kqx2003.github.io/), [Credly](https://www.credly.com/users/14-kq)
+    + Project Management - Self Study
+        + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/802d630a-0e39-47ec-b65a-fd75bdd80e71)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/51b8fd16-4f9d-4dc4-bd7f-02d6fd998178)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/8c813483-53d4-4fda-95e0-696be442c3ca)
 
 ## Special Activity
 + HPE Aruba
