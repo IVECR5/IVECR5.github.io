@@ -25,8 +25,8 @@
     + [GitHub](https://github.com/aomnutza58), [GitHub Page](https://aomnutza58.github.io/), [Credly](https://www.credly.com/users/kittiphat-prasopsuwan.8329778d)
     + Project Management - Self Study
         + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/b332ea23-1ace-43b8-86bd-ec85b34d382a)
-        + [Fundamentals of Agile Project Management](https://www.credly.com/earner/earned/badge/b358690a-b4ba-4cac-8c88-80b9f36b7e8a)
-        + [Generative AI Overview for Project Managers](https://www.credly.com/earner/earned/badge/d1437119-ab8e-4403-a223-e3226e0d89e1)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/b358690a-b4ba-4cac-8c88-80b9f36b7e8a)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/d1437119-ab8e-4403-a223-e3226e0d89e1)
 
 + Mintada Thongchai
     + มิณฐดา ทองไชย
