@@ -78,11 +78,11 @@
 
 + Witsarut Khuntangtong
     + วิศรุต คุณทั่งทอง
-    + [GitHub](https://github.com/witsarut42), [GitHub Page](https://witsarut42.github.io/), [Credly]()
+    + [GitHub](https://github.com/witsarut42), [GitHub Page](https://witsarut42.github.io/), [Credly](https://www.credly.com/users/witsarut-khuntangtong)
     + Project Management - Self Study
-        + [Fundamentals of Predictive Project Management]()
-        + [Fundamentals of Agile Project Management]()
-        + [Generative AI Overview for Project Managers]()
+        + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/9f00d41c-64df-4296-af81-c4a589fb3ee3)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/6c2d5e1d-faee-431e-ae89-d7149fa6a6f9)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/d4dcfdee-4e7c-429c-b043-794290b20751)
 
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
