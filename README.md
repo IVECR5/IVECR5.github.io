@@ -1,4 +1,4 @@
-# Course Information
+# Course[s]
 
 + [[2024/2](2024-2)] [Die & Mold Innovation Project](2024-2) - IT10
 + [[2024/1](2024-1)] [IT Innovation Project 1](2024-1) - IT10
