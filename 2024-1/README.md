@@ -54,11 +54,19 @@
 
 + Pannathorn Wiwatpornpipat
     + ปัณณธร วิวัฒน์พรพิพัฒน์
-    + [GitHub](https://github.com/Toeng152), [GitHub Page](https://toeng152.github.io/)
+    + [GitHub](https://github.com/Toeng152), [GitHub Page](https://toeng152.github.io/), [Credly](https://www.credly.com/users/12.5186f1e7)
+    + Project Management - Self Study
+        + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/56564f3e-5c1f-4687-a787-139ac8cbb64d)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/27345b62-d7e4-42b4-b551-a68c528186e5)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/c4e5a8a1-bb6a-47e9-8271-cc917d7bebff)
 
 + Tanakorn Pramualpollapat
     + ธนากร ประมวลพลภัตต์
-    + [GitHub](https://github.com/tanakorn5670), [GitHub Page](https://tanakorn5670.github.io/)
+    + [GitHub](https://github.com/tanakorn5670), [GitHub Page](https://tanakorn5670.github.io/), [Credly](https://www.credly.com/users/tanakorn5670)
+    + Project Management - Self Study
+        + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/b0274d87-da30-4f8a-97bd-b5fc9e1e2450)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/667bc32c-e9fe-4190-8fa6-ea6d57d0a7f6)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/caac52fc-9651-4b15-b806-066de770ea15)
 
 + Wanussanai Karin
     + วนัสนัย กะริน
@@ -70,7 +78,11 @@
 
 + Witsarut Khuntangtong
     + วิศรุต คุณทั่งทอง
-    + [GitHub](https://github.com/witsarut42), [GitHub Page](https://witsarut42.github.io/)
+    + [GitHub](https://github.com/witsarut42), [GitHub Page](https://witsarut42.github.io/), [Credly]()
+    + Project Management - Self Study
+        + [Fundamentals of Predictive Project Management]()
+        + [Fundamentals of Agile Project Management]()
+        + [Generative AI Overview for Project Managers]()
 
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
