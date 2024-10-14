@@ -1,5 +1,6 @@
 # Course Information
 
++ [[2024/2](2024-2)] [Die and Mold Project](2024-2) - IT10
 + [[2024/1](2024-1)] [IT Innovation Project 1](2024-1) - IT10
 + [[2023/2](2023-2)] [Computer System Security](2023-2) - IT10
 + [[2023/1](2023-1)] [IT Innovation Project 1](2023-1) - IT9
