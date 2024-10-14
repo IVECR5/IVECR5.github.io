@@ -46,7 +46,11 @@
 
 + Natthanan Petdonthong
     + ณัฐนันท์ เพชรดอนทอง
-    + [GitHub](https://github.com/Natthanan2002), [GitHub Page](https://natthanan2002.github.io/)
+    + [GitHub](https://github.com/Natthanan2002), [GitHub Page](https://natthanan2002.github.io/), [Credly](https://www.credly.com/users/natthanan2002)
+    + Project Management - Self Study
+        + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/62da7219-fea1-46a6-9b96-c974e7bbe0bd)
+        + [Fundamentals of Agile Project Management](https://www.credly.com/badges/370e0c59-5936-4c59-a467-e12b82b82bf8)
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/c2817891-0594-4856-a5c8-84ab3071b8bf)
 
 + Pannathorn Wiwatpornpipat
     + ปัณณธร วิวัฒน์พรพิพัฒน์
