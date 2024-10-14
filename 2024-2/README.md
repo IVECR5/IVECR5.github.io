@@ -2,7 +2,7 @@
 + 19-4901-2401
 + โครงงานในสถานประกอบการ
 
-[![Opening](Opening.png "เปิดคอร์ส")](https://www.facebook.com/photo/?fbid=10229483476165196)
+[![Opening](Opening.png "เปิดคอร์ส")](#)
 
 ## Classes
 + xxxx
