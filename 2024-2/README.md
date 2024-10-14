@@ -1,4 +1,4 @@
-# Mold and Die Innovation Project 
+# Mold & Die Innovation Project 
 + 19-4901-2401
 + โครงงานในสถานประกอบการ
 
