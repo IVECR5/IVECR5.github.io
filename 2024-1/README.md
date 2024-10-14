@@ -17,6 +17,8 @@
 + Kittikan Subkhum
     + กิตติกานต์ ทรัพย์ขำ
     + [GitHub](https://github.com/Kittikan1810), [GitHub Page](https://Kittikan1810.github.io/)
+    + Project Management - Self Study
+        + [Generative AI Overview for Project Managers](https://www.credly.com/badges/2b6deca3-76d2-447e-a80a-ba39625c06b7/)
     
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
