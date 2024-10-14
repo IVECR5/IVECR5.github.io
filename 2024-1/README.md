@@ -16,13 +16,13 @@
 ## Members
 + Kittikan Subkhum
     + กิตติกานต์ ทรัพย์ขำ
-    + [GitHub](https://github.com/Kittikan1810), [GitHub Page](https://Kittikan1810.github.io/)
+    + [GitHub](https://github.com/Kittikan1810), [GitHub Page](https://Kittikan1810.github.io/), [Credly](https://www.credly.com/users/kittikan)
     + Project Management - Self Study
         + [Generative AI Overview for Project Managers](https://www.credly.com/badges/2b6deca3-76d2-447e-a80a-ba39625c06b7/)
     
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
-    + [GitHub](https://github.com/aomnutza58), [GitHub Page](https://aomnutza58.github.io/)
+    + [GitHub](https://github.com/aomnutza58), [GitHub Page](https://aomnutza58.github.io/), [Credly](https://www.credly.com/users/kittiphat-prasopsuwan.8329778d)
     + Project Management - Self Study
         + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/b332ea23-1ace-43b8-86bd-ec85b34d382a)
         + [Fundamentals of Agile Project Management](https://www.credly.com/earner/earned/badge/b358690a-b4ba-4cac-8c88-80b9f36b7e8a)
