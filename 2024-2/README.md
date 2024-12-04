@@ -20,6 +20,7 @@
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
     + [GitHub](https://github.com/aomnutza58), [GitHub Page](https://aomnutza58.github.io/), [Credly](https://www.credly.com/users/kittiphat-prasopsuwan.8329778d)
+    + [Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/eeed2765-5957-4912-9a4b-806d5c0b9ff1)
 
 + Mintada Thongchai
     + มิณฐดา ทองไชย
