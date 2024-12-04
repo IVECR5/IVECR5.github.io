@@ -50,6 +50,7 @@
 + Witsarut Khuntangtong
     + วิศรุต คุณทั่งทอง
     + [GitHub](https://github.com/witsarut42), [GitHub Page](https://witsarut42.github.io/), [Credly](https://www.credly.com/users/witsarut-khuntangtong)
+    + [Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/65a4cecb-3b06-4aa6-8e44-4e19450f1b50)
 
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
