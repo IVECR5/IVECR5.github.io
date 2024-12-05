@@ -38,6 +38,7 @@
 + Pannathorn Wiwatpornpipat
     + ปัณณธร วิวัฒน์พรพิพัฒน์
     + [GitHub](https://github.com/Toeng152), [GitHub Page](https://toeng152.github.io/), [Credly](https://www.credly.com/users/12.5186f1e7)
+    + [Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/2c621a87-94bc-4d94-8762-2be8aab8f93d)
 
 + Tanakorn Pramualpollapat
     + ธนากร ประมวลพลภัตต์
