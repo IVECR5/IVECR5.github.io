@@ -59,4 +59,4 @@
     + [GitHub](https://github.com/kQx2003), [GitHub Page](https://kqx2003.github.io/), [Credly](https://www.credly.com/users/14-kq)
 
 ## Self Learning
-+ [Deep Learning in Computer Vision](https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/)
++ [**Deep Learning in Computer Vision** with Prof. Kosta Derpanis (York University)](https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/)
