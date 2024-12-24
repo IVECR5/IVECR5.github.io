@@ -4,8 +4,6 @@
 
 [![#](Opening.png "เปิดคอร์ส")](#)
 
-## Classes
-+ xxxx
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
