@@ -2,6 +2,13 @@
 + 19-4901-2401
 + โครงงานในสถานประกอบการ
 
+
+## References
++ [**Deep Learning in Computer Vision** with Prof. Kosta Derpanis (York University)](https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/)
++ [Digital Design](https://ddp.ireb.org/en/knowledge-and-resources)
++ [Requirement Engineering the magazine](https://ddp.ireb.org/en/knowledge-and-resources/re-mag)
+
+
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")
@@ -52,8 +59,3 @@
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003), [GitHub Page](https://kqx2003.github.io/), [Credly](https://www.credly.com/users/14-kq)
-
-## References
-+ [**Deep Learning in Computer Vision** with Prof. Kosta Derpanis (York University)](https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/)
-+ [Digital Design](https://ddp.ireb.org/en/knowledge-and-resources)
-+ [Requirement Engineering the magazine](https://ddp.ireb.org/en/knowledge-and-resources/re-mag)
