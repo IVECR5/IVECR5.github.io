@@ -3,8 +3,23 @@
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
 ## Lecturer
-+ [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
++ [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart), PhD
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์") (ເມຄິນ ວໍຣະສາດ, ຂວດ)
+
+## Students
++ Aekkaphat Daengpayon
++ Apichit Duangsa
++ Aroonphat Seehanan
++ Boonmee 
++ Chutima Selakhun
++ Panu Kason
++ Phakanan Aiemsa-ard
++ Phattaphon Thongchan
++ Preeyanuch Beawbungkerd
++ Satakun Kaphon
++ Suparut Kumbungka
++ Teerapong Jansommit
++ Thanet Chomsri
 
 ## Misc.
 + [ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams](https://www.isc2.org/landing/1mcc)
