@@ -2,10 +2,6 @@
 + 19-40901-2105
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
-## Lecturer
-+ [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart), PhD
-    + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์") (ເມຄິນ ວໍຣະສາດ, ຂວດ)
-
 ## Students
 + Aekkaphat Daengpayon
     + GitHub Page: N/A
@@ -33,6 +29,10 @@
     + GitHub Page: N/A
 + Thanet Chomsri
     + GitHub Page: N/A
+
+## Lecturer
++ [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart), PhD
+    + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์") (ເມຄິນ ວໍຣະສາດ, ຂວດ)
 
 ## Misc.
 + [ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams](https://www.isc2.org/landing/1mcc)
