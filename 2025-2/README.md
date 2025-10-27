@@ -37,7 +37,7 @@
     + GitHub : https://github.com/kocies
     + GitHub Page: N/A
 + Teerapong Jansommit
-    + GitHub : N/A
+    + GitHub : https://github.com/mutodeiei
     + GitHub Page: N/A
 + Thanet Chomsri
     + GitHub : https://github.com/Got2546
