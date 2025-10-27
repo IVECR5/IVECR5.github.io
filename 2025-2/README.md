@@ -16,7 +16,7 @@
     + GitHub : https://github.com/boonmeemira
     + GitHub Page: N/A
 + Chutima Selakhun
-    + GitHub : N/A
+    + GitHub : https://github.com/Whalienz
     + GitHub Page: N/A
 + Panu Kason
     + GitHub : https://github.com/PanuKason
