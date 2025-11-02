@@ -20,7 +20,7 @@
     + GitHub Page : [aroonphattt-03]https://aroonphattt-03.github.io/
 + Boonmee
     + GitHub : [boonmeemira](https://github.com/boonmeemira)
-    + GitHub Page: N/A
+    + GitHub Page: [boonmeemira](https://boonmeemira.github.io/)
 + Chutima Selakhun
     + GitHub : [Whalienz](https://github.com/Whalienz)
     + GitHub Page: N/A
