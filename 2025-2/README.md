@@ -6,6 +6,7 @@
 + Aekkaphat Daengpayon
     + GitHub : [playtwo2543](https://github.com/playtwo2543)
     + GitHub Page: [playtwo2543](https://playtwo2543.github.io)
+    + Credly : [jxkpz](https://credly.com/users/jxkpz)
 + Apichit Duangsa
     + GitHub : [ApichitPek](https://github.com/ApichitPek)
     + GitHub Page: N/A
