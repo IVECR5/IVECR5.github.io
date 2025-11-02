@@ -18,6 +18,9 @@
 + Chutima Selakhun
     + GitHub : [Whalienz](https://github.com/Whalienz)
     + GitHub Page: N/A
++ Pajaree Noree
+    + GitHub : [Domi-chan](https://github.com/Domi-chan)
+    + GitHub Page: N/A
 + Panu Kason
     + GitHub : [PanuKason](https://github.com/PanuKason)
     + GitHub Page: N/A
