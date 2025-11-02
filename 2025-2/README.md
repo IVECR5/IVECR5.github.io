@@ -21,13 +21,13 @@
     + GitHub Page: N/A
 + Pajaree Noree
     + GitHub : [Domi-chan](https://github.com/Domi-chan)
-    + GitHub Page: N/A
+    + GitHub Page: [domi-chan](https://domi-chan.github.io/)
 + Panu Kason
     + GitHub : [PanuKason](https://github.com/PanuKason)
     + GitHub Page: N/A
 + Phakanan Aiemsa-ard
     + GitHub : [Program-Phakanan](https://github.com/Program-Phakanan)
-    + GitHub Page: N/A
+    + GitHub Page: [program-phakanan](https://program-phakanan.github.io/)
 + Phattaphon Thongchan
     + GitHub : [aeng1596](https://github.com/aeng1596)
     + GitHub Page: N/A
