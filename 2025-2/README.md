@@ -48,6 +48,7 @@
 + Thanet Chomsri
     + GitHub : [Got2546](https://github.com/Got2546)
     + GitHub Page: [got2546](https://got2546.github.io/)
+    + Credly : [tha_nex](credly.com/users/tha_nex)
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart"), PhD
