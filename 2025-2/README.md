@@ -35,6 +35,7 @@
 + Preeyanuch Beawbungkerd
     + GitHub : [Preeyanuchmimi](https://github.com/Preeyanuchmimi)
     + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
+    + Credly : [x](#)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page: N/A
@@ -46,7 +47,7 @@
     + GitHub Page: N/A
 + Thanet Chomsri
     + GitHub : [Got2546](https://github.com/Got2546)
-    + GitHub Page: N/A
+    + GitHub Page: [got2546](https://got2546.github.io/)
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart"), PhD
