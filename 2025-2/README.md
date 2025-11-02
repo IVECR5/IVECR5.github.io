@@ -2,6 +2,9 @@
 + 19-40901-2105
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
+## Classes
++ [Nov 2, 2025](https://youtu.be/kxwJNbKa-t4)
+
 ## Students
 + Aekkaphat Daengpayon
     + GitHub : [playtwo2543](https://github.com/playtwo2543)
