@@ -3,7 +3,7 @@
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
 ## Classes
-+ [Nov 2, 2025](https://youtu.be/kxwJNbKa-t4)
++ [Nov 2, 2025](https://youtu.be/kxwJNbKa-t4) via Google Meet
 
 ## Students
 + Aekkaphat Daengpayon
