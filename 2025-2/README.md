@@ -23,6 +23,7 @@
 + Pajaree Noree
     + GitHub : [Domi-chan](https://github.com/Domi-chan)
     + GitHub Page: [domi-chan](https://domi-chan.github.io/)
+    + Credly : [domi-chan](credly.com/users/domi-chan)
 + Panu Kason
     + GitHub : [PanuKason](https://github.com/PanuKason)
     + GitHub Page: N/A
