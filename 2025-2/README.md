@@ -5,7 +5,7 @@
 ## Students
 + Aekkaphat Daengpayon
     + GitHub : [playtwo2543](https://github.com/playtwo2543)
-    + GitHub Page: N/A
+    + GitHub Page: [playtwo2543](https://playtwo2543.github.io)
 + Apichit Duangsa
     + GitHub : [ApichitPek](https://github.com/ApichitPek)
     + GitHub Page: N/A
