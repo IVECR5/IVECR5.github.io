@@ -24,7 +24,7 @@
     + Credly : [boonmee](https://www.credly.com/users/boonmee/)
 + Chutima Selakhun
     + GitHub : [Whalienz](https://github.com/Whalienz)
-    + GitHub Page: N/A
+    + GitHub Page: [whalienz](https://whalienz.github.io/)
 + Pajaree Noree
     + GitHub : [Domi-chan](https://github.com/Domi-chan)
     + GitHub Page: [domi-chan](https://domi-chan.github.io/)
