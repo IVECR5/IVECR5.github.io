@@ -17,7 +17,7 @@
 + Aroonphat Seehanan
     + GitHub : [Aroonphat](https://github.com/Aroonphat)
     + GitHub Page : [aroonphat](https://aroonphat.github.io/)
-    + GitHub Page : [aroonphattt-03]https://aroonphattt-03.github.io/
+    + GitHub Page : [aroonphattt-03](https://aroonphattt-03.github.io/)
 + Boonmee
     + GitHub : [boonmeemira](https://github.com/boonmeemira)
     + GitHub Page : [boonmeemira](https://boonmeemira.github.io/)
@@ -41,7 +41,6 @@
 + Preeyanuch Beawbungkerd
     + GitHub : [Preeyanuchmimi](https://github.com/Preeyanuchmimi)
     + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
-    + Credly : [x](#)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page: N/A
