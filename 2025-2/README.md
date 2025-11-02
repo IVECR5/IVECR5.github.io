@@ -9,10 +9,10 @@
     + Credly : [jxkpz](https://credly.com/users/jxkpz)
 + Apichit Duangsa
     + GitHub : [ApichitPek](https://github.com/ApichitPek)
-    + GitHub Page: N/A
+    + GitHub Page: [apichitpek](https://apichitpek.github.io/)
 + Aroonphat Seehanan
     + GitHub : [Aroonphat](https://github.com/Aroonphat)
-    + GitHub Page: N/A
+    + GitHub Page: [aroonphat](https://aroonphat.github.io/)
 + Boonmee
     + GitHub : [boonmeemira](https://github.com/boonmeemira)
     + GitHub Page: N/A
