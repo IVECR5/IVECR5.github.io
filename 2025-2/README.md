@@ -39,7 +39,7 @@
     + GitHub Page: N/A
 + Suparut Kumbungka
     + GitHub : [kocies](https://github.com/kocies)
-    + GitHub Page: N/A
+    + GitHub Page: [kocies](https://kocies.github.io/)
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
     + GitHub Page: N/A
