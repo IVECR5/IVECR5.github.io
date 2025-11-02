@@ -34,7 +34,7 @@
     + GitHub Page: N/A
 + Preeyanuch Beawbungkerd
     + GitHub : [Preeyanuchmimi](https://github.com/Preeyanuchmimi)
-    + GitHub Page: N/A
+    + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page: N/A
