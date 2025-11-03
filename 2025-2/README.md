@@ -25,6 +25,7 @@
 + Chutima Selakhun
     + GitHub : [Whalienz](https://github.com/Whalienz)
     + GitHub Page: [whalienz](https://whalienz.github.io/)
+    + Credly : [whalienz52](https://www.credly.com/users/whalienz52/)
 + Pajaree Noree
     + GitHub : [Domi-chan](https://github.com/Domi-chan)
     + GitHub Page: [domi-chan](https://domi-chan.github.io/)
