@@ -35,7 +35,8 @@
     + GitHub Page: N/A
 + Phakanan Aiemsa-ard
     + GitHub : [Program-Phakanan](https://github.com/Program-Phakanan)
-    + GitHub Page: [program-phakanan](https://program-phakanan.github.io/)
+    + GitHub Page : [program-phakanan](https://program-phakanan.github.io/)
+    + Credly : [phakanan.ae] (https://www.credly.com/users/phakanan.ae/)
 + Phattaphon Thongchan
     + GitHub : [aeng1596](https://github.com/aeng1596)
     + GitHub Page: N/A
