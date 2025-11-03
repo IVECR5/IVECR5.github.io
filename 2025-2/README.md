@@ -43,6 +43,7 @@
 + Preeyanuch Beawbungkerd
     + GitHub : [Preeyanuchmimi](https://github.com/Preeyanuchmimi)
     + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
+    + Credly : [preeyanuchmimi](https://www.credly.com/users/preeyanuchmimi)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page: N/A
