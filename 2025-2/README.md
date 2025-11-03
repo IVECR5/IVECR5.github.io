@@ -46,16 +46,16 @@
     + Credly : [preeyanuchmimi](https://www.credly.com/users/preeyanuchmimi)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
-    + GitHub Page: N/A
+    + GitHub Page : [kum2546](https://kum2546.github.io/)
 + Suparut Kumbungka
     + GitHub : [kocies](https://github.com/kocies)
-    + GitHub Page: [kocies](https://kocies.github.io/)
+    + GitHub Page : [kocies](https://kocies.github.io/)
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
     + GitHub Page: N/A
 + Thanet Chomsri
     + GitHub : [Got2546](https://github.com/Got2546)
-    + GitHub Page: [got2546](https://got2546.github.io/)
+    + GitHub Page : [got2546](https://got2546.github.io/)
     + Credly : [tha_nex](credly.com/users/tha_nex)
 
 ## Lecturer
