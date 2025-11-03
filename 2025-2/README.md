@@ -47,6 +47,7 @@
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page : [kum2546](https://kum2546.github.io/)
+    + Credly : [kum2546](https://www.credly.com/users/kum2546)
 + Suparut Kumbungka
     + GitHub : [kocies](https://github.com/kocies)
     + GitHub Page : [kocies](https://kocies.github.io/)
