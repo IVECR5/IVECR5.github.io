@@ -32,7 +32,7 @@
     + Credly : [domi-chan](credly.com/users/domi-chan)
 + Panu Kason
     + GitHub : [PanuKason](https://github.com/PanuKason)
-    + GitHub Page: N/A
+    + GitHub Page: [panukason](https://panukason.github.io/)
     + Credly : [panukason99](https://www.credly.com/users/panukason99/)
 + Phakanan Aiemsa-ard
     + GitHub : [Program-Phakanan](https://github.com/Program-Phakanan)
