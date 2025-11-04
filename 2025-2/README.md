@@ -33,10 +33,11 @@
 + Panu Kason
     + GitHub : [PanuKason](https://github.com/PanuKason)
     + GitHub Page: N/A
+    + Credly : [panukason99](https://www.credly.com/users/panukason99/)
 + Phakanan Aiemsa-ard
     + GitHub : [Program-Phakanan](https://github.com/Program-Phakanan)
     + GitHub Page : [program-phakanan](https://program-phakanan.github.io/)
-    + Credly : [phakanan.ae] (https://www.credly.com/users/phakanan.ae/)
+    + Credly : [phakanan.ae](https://www.credly.com/users/phakanan.ae/)
 + Phattaphon Thongchan
     + GitHub : [aeng1596](https://github.com/aeng1596)
     + GitHub Page: N/A
