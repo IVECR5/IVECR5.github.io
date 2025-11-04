@@ -40,7 +40,8 @@
     + Credly : [phakanan.ae](https://www.credly.com/users/phakanan.ae/)
 + Phattaphon Thongchan
     + GitHub : [aeng1596](https://github.com/aeng1596)
-    + GitHub Page: N/A
+    + GitHub Page: [aeng1596](https://aeng1596.github.io/)
+    + Credly : [phattaphon-aeng16](credly.com/users/phattaphon-aeng16)
 + Preeyanuch Beawbungkerd
     + GitHub : [Preeyanuchmimi](https://github.com/Preeyanuchmimi)
     + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
