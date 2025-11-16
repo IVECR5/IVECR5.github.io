@@ -2,6 +2,8 @@
 + 19-40901-2105
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
+<img src="in-class.jpg">
+
 ## Classes
 + [Nov 2, 2025](https://youtu.be/kxwJNbKa-t4) via Google Meet
 + [Nov 9, 2025](https://youtu.be/XlA7i13rXd4) via Google Meet
