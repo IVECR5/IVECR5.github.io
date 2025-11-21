@@ -79,6 +79,7 @@
 + [Docker by aws](https://aws.amazon.com/th/docker/)
 + [Container in Azure](https://learn.microsoft.com/en-us/training/paths/administer-containers-in-azure/)
 + [Make (y)our GitHub Pages searchable by Google](https://yossieliaz.medium.com/how-to-make-your-github-pages-website-searchable-by-google-c6f481ca3a19)
++ [Thailand - Website Security Standard](https://drive.ncsa.or.th/s/JLWCNF6ppaRjYmG)
 
 <br>
 [![Pay in forward](../2023-2/pay-it-fwd.png "MarineGEO logo")](https://www.facebook.com/photo/?fbid=947837910044301)
