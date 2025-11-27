@@ -5,10 +5,11 @@
 <img src="in-class-01.jpg">
 
 ## Classes
-[Nov 2, 2025](https://youtu.be/kxwJNbKa-t4),
-[Nov 9, 2025](https://youtu.be/XlA7i13rXd4),
-[Nov 14, 2025](https://youtu.be/doreuMeYFmM),
-[Nov 16, 2025](https://youtu.be/aTESeeOKdGc) 
+[Nov 2, 2025](https://youtu.be/kxwJNbKa-t4) | 
+[Nov 9, 2025](https://youtu.be/XlA7i13rXd4) | 
+[Nov 14, 2025](https://youtu.be/doreuMeYFmM) | 
+[Nov 16, 2025](https://youtu.be/aTESeeOKdGc) | 
+[Nov 23, 2025](https://youtu.be/MbjYEAGdl0E)
 
 ## Students
 + Aekkaphat Daengpayon
