@@ -11,6 +11,9 @@
 [Nov 16, 2025](https://youtu.be/aTESeeOKdGc) | 
 [Nov 23, 2025](https://youtu.be/MbjYEAGdl0E)
 
+## Glossary
+[Authentication](https://program-phakanan.github.io/authentication)
+
 ## Students
 + Aekkaphat Daengpayon
     + GitHub : [playtwo2543](https://github.com/playtwo2543)
@@ -45,6 +48,7 @@
     + GitHub : [Program-Phakanan](https://github.com/Program-Phakanan)
     + GitHub Page : [program-phakanan](https://program-phakanan.github.io/)
     + Credly : [phakanan.ae](https://www.credly.com/users/phakanan.ae/)
+    + Glossary : [Authentication](https://program-phakanan.github.io/authentication)
 + Phattaphon Thongchan
     + GitHub : [aeng1596](https://github.com/aeng1596)
     + GitHub Page: [aeng1596](https://aeng1596.github.io/)
