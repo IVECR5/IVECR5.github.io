@@ -2,7 +2,7 @@
 + 19-40901-2105
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
-<img src="in-class-01.jpg">
+![xxx](in-class-01.jpg "XXX")
 
 ## Classes
 [Nov 2, 2025](https://youtu.be/kxwJNbKa-t4) | 
