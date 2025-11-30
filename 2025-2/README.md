@@ -11,11 +11,6 @@
 [Nov 16, 2025](https://youtu.be/aTESeeOKdGc) | 
 [Nov 23, 2025](https://youtu.be/MbjYEAGdl0E)
 
-## Glossary
-[Authentication](https://program-phakanan.github.io/authentication),
-[Console](https://program-phakanan.github.io/console),
-[Firewall](https://program-phakanan.github.io/firewall)
-
 ## Students
 + Aekkaphat Daengpayon
     + GitHub : [playtwo2543](https://github.com/playtwo2543)
@@ -78,6 +73,11 @@
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart"), PhD
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์") (ເມຄິນ ວໍຣະສາດ, ຂວດ)
+
+## Glossary
+[Authentication](https://program-phakanan.github.io/authentication),
+[Console](https://program-phakanan.github.io/console),
+[Firewall](https://program-phakanan.github.io/firewall)
 
 ## Misc.
 + [ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams](https://www.isc2.org/landing/1mcc)
