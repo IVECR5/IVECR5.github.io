@@ -30,6 +30,7 @@
     + GitHub : [boonmeemira](https://github.com/boonmeemira)
     + GitHub Page : [boonmeemira](https://boonmeemira.github.io/)
     + Credly : [boonmee](https://www.credly.com/users/boonmee/)
+    + Glossary : [BGP Speaker](https://boonmeemira.github.io/BGP-speaker)
 + Chutima Selakhun
     + GitHub : [Whalienz](https://github.com/Whalienz)
     + GitHub Page: [whalienz](https://whalienz.github.io/)
@@ -78,6 +79,7 @@
 
 ## Glossary
 [Authentication](https://program-phakanan.github.io/authentication),
+[BGP Speaker](https://boonmeemira.github.io/BGP-speaker),
 [Console](https://program-phakanan.github.io/console),
 [Dynamic Routing](https://whalienz.github.io/dynamic-routing),
 [Firewall](https://program-phakanan.github.io/firewall),
