@@ -30,7 +30,7 @@
     + GitHub : [boonmeemira](https://github.com/boonmeemira)
     + GitHub Page : [boonmeemira](https://boonmeemira.github.io/)
     + Credly : [boonmee](https://www.credly.com/users/boonmee/)
-    + Glossary : [BGP Speaker](https://boonmeemira.github.io/BGP-speaker), [CPU](https://boonmeemira.github.io/CPU)
+    + Glossary : [BGP Speaker](https://boonmeemira.github.io/BGP-speaker), [CPU](https://boonmeemira.github.io/CPU), [Dig](https://boonmeemira.github.io/Dig)
 + Chutima Selakhun
     + GitHub : [Whalienz](https://github.com/Whalienz)
     + GitHub Page: [whalienz](https://whalienz.github.io/)
@@ -82,6 +82,7 @@
 [BGP Speaker](https://boonmeemira.github.io/BGP-speaker),
 [Console](https://program-phakanan.github.io/console),
 [CPU](https://boonmeemira.github.io/CPU),
+[Dig](https://boonmeemira.github.io/Dig),
 [Dynamic Routing](https://whalienz.github.io/dynamic-routing),
 [Firewall](https://program-phakanan.github.io/firewall),
 [Java](https://playtwo2543.github.io/java),
