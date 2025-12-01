@@ -2,7 +2,7 @@
 + 19-40901-2105
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
-![IT11](in-class-01.jpg "IT11")
+![Picture IT11](in-class-01.jpg "IT11 of IVECR-5")
 
 ## Classes
 [Nov 2, 2025](https://youtu.be/kxwJNbKa-t4) | 
