@@ -34,6 +34,7 @@
     + GitHub : [Whalienz](https://github.com/Whalienz)
     + GitHub Page: [whalienz](https://whalienz.github.io/)
     + Credly : [whalienz52](https://www.credly.com/users/whalienz52/)
+    + Glossary : [Dynamic Routing](https://whalienz.github.io/dynamic-routing/)
 + Pajaree Noree
     + GitHub : [Domi-chan](https://github.com/Domi-chan)
     + GitHub Page: [domi-chan](https://domi-chan.github.io/)
@@ -78,6 +79,7 @@
 ## Glossary
 [Authentication](https://program-phakanan.github.io/authentication),
 [Console](https://program-phakanan.github.io/console),
+[Dynamic Routing](https://whalienz.github.io/dynamic-routing),
 [Firewall](https://program-phakanan.github.io/firewall),
 [Java](https://playtwo2543.github.io/java),
 [Local Group](https://playtwo2543.github.io/local-group),
