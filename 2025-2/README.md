@@ -57,6 +57,7 @@
     + GitHub : [Preeyanuchmimi](https://github.com/Preeyanuchmimi)
     + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
     + Credly : [preeyanuchmimi](https://www.credly.com/users/preeyanuchmimi)
+    + Glossary : [CIDR](https://preeyanuchmimi.github.io/CIDR)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page : [kum2546](https://kum2546.github.io/)
@@ -80,6 +81,7 @@
 ## Glossary
 [Authentication](https://program-phakanan.github.io/authentication),
 [BGP Speaker](https://boonmeemira.github.io/BGP-speaker),
+[CIDR](https://preeyanuchmimi.github.io/CIDR),
 [Console](https://program-phakanan.github.io/console),
 [CPU](https://boonmeemira.github.io/CPU),
 [Dig](https://boonmeemira.github.io/Dig),
