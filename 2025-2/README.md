@@ -57,7 +57,7 @@
     + GitHub : [Preeyanuchmimi](https://github.com/Preeyanuchmimi)
     + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
     + Credly : [preeyanuchmimi](https://www.credly.com/users/preeyanuchmimi)
-    + Glossary : [CIDR](https://preeyanuchmimi.github.io/CIDR)
+    + Glossary : [CIDR](https://preeyanuchmimi.github.io/CIDR), [NAT](https://preeyanuchmimi.github.io/NAT)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page : [kum2546](https://kum2546.github.io/)
@@ -90,6 +90,7 @@
 [Java](https://playtwo2543.github.io/java),
 [Local Group](https://playtwo2543.github.io/local-group),
 [Madman.mib](https://whalienz.github.io/madman-mib),
+[NAT]([NAT](https://preeyanuchmimi.github.io/NAT))
 [Node](https://whalienz.github.io/node),
 [X.500](https://playtwo2543.github.io/X500)
 
