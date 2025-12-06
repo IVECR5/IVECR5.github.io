@@ -21,6 +21,7 @@
     + GitHub : [ApichitPek](https://github.com/ApichitPek)
     + GitHub Page: [apichitpek](https://apichitpek.github.io/)
     + Credly : [forst_darkness](https://www.credly.com/users/forst_darkness/)
+    + Glossary : [Page](https://apichitpek.github.io/page), [Template](https://apichitpek.github.io/template), [Zone](https://apichitpek.github.io/zone)
 + Aroonphat Seehanan
     + GitHub : [Aroonphat](https://github.com/Aroonphat)
     + GitHub Page : [aroonphat](https://aroonphat.github.io/)
@@ -93,7 +94,10 @@
 [Madman.mib](https://whalienz.github.io/madman-mib),
 [NAT]([NAT](https://preeyanuchmimi.github.io/NAT))
 [Node](https://whalienz.github.io/node),
-[X.500](https://playtwo2543.github.io/X500)
+[Page](https://apichitpek.github.io/page),
+[Template](https://apichitpek.github.io/template),
+[X.500](https://playtwo2543.github.io/X500),
+[Zone](https://apichitpek.github.io/zone)
 
 ## Misc.
 + [ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams](https://www.isc2.org/landing/1mcc)
