@@ -2,7 +2,7 @@
 + 19-40901-2105
 + ความมั่นคงปลอดภัยของระบบคอมพิวเตอร์
 
-[![Picture IT11](in-class-01.jpg "IT11 of IVECR-5")](in-class-01.png)
+[![Picture IT11](in-class-01.jpg "IT11 of IVECR-5")](in-class-01_o.png)
 
 ## Classes
 [Nov 2, 2025](https://youtu.be/kxwJNbKa-t4) | 
@@ -107,6 +107,8 @@
 [Terminal](https://mutodeiei.github.io/glossary/terminal),
 [X.500](https://playtwo2543.github.io/X500),
 [Zone](https://apichitpek.github.io/zone)
+
+[![Picture IT11](in-class-02.jpg "IT11 of IVECR-5")](in-class-02_o.jpg)
 
 ## Misc.
 + [ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams](https://www.isc2.org/landing/1mcc)
