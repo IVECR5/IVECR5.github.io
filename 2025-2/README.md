@@ -70,7 +70,7 @@
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
     + GitHub Page : [mutodeiei](https://mutodeiei.github.io/)
-    + Glossary : [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile), [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup)
+    + Glossary : [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile), [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup), [Network Printer](https://mutodeiei.github.io/glossary/terminal)
 + Thanet Chomsri
     + GitHub : [Got2546](https://github.com/Got2546)
     + GitHub Page : [got2546](https://got2546.github.io/)
@@ -94,7 +94,8 @@
 [Java](https://playtwo2543.github.io/java),
 [Local Group](https://playtwo2543.github.io/local-group),
 [Madman.mib](https://whalienz.github.io/madman-mib),
-[NAT]([NAT](https://preeyanuchmimi.github.io/NAT))
+[NAT](https://preeyanuchmimi.github.io/NAT),
+[Network Printer](https://mutodeiei.github.io/glossary/terminal),
 [Node](https://whalienz.github.io/node),
 [Page](https://apichitpek.github.io/page),
 [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup),
