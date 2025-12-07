@@ -70,7 +70,7 @@
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
     + GitHub Page : [mutodeiei](https://mutodeiei.github.io/)
-    + Glossary : [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile)
+    + Glossary : [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile), [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup)
 + Thanet Chomsri
     + GitHub : [Got2546](https://github.com/Got2546)
     + GitHub Page : [got2546](https://got2546.github.io/)
@@ -97,6 +97,7 @@
 [NAT]([NAT](https://preeyanuchmimi.github.io/NAT))
 [Node](https://whalienz.github.io/node),
 [Page](https://apichitpek.github.io/page),
+[Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup),
 [Template](https://apichitpek.github.io/template),
 [X.500](https://playtwo2543.github.io/X500),
 [Zone](https://apichitpek.github.io/zone)
