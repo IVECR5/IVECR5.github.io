@@ -67,7 +67,7 @@
     + GitHub : [kocies](https://github.com/kocies)
     + GitHub Page : [kocies](https://kocies.github.io/)
     + Credly : [supakhim.ko](https://www.credly.com/users/supakhim.ko)
-    + Glossary : [Archive Bit](https://kocies.github.io/archive-bit)
+    + Glossary : [Archive Bit](https://kocies.github.io/archive-bit), [Keepalive Messages](https://kocies.github.io/keepalive-messages)
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
     + GitHub Page : [mutodeiei](https://mutodeiei.github.io/)
@@ -94,6 +94,7 @@
 [Firewall](https://program-phakanan.github.io/firewall),
 [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile),
 [Java](https://playtwo2543.github.io/java),
+[Keepalive Messages](https://kocies.github.io/keepalive-messages),
 [Local Group](https://playtwo2543.github.io/local-group),
 [Madman.mib](https://whalienz.github.io/madman-mib),
 [NAT](https://preeyanuchmimi.github.io/NAT),
