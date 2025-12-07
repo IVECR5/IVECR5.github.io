@@ -67,6 +67,7 @@
     + GitHub : [kocies](https://github.com/kocies)
     + GitHub Page : [kocies](https://kocies.github.io/)
     + Credly : [supakhim.ko](https://www.credly.com/users/supakhim.ko)
+    + Glossary : [Archive Bit](https://kocies.github.io/archive-bit)
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
     + GitHub Page : [mutodeiei](https://mutodeiei.github.io/)
@@ -81,6 +82,7 @@
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์") (ເມຄິນ ວໍຣະສາດ, ຂວດ)
 
 ## Glossary
+[Archive Bit](https://kocies.github.io/archive-bit),
 [Authentication](https://program-phakanan.github.io/authentication),
 [Backup Log](https://preeyanuchmimi.github.io/backup-log),
 [BGP Speaker](https://boonmeemira.github.io/BGP-speaker),
