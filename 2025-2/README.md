@@ -67,11 +67,11 @@
     + GitHub : [kocies](https://github.com/kocies)
     + GitHub Page : [kocies](https://kocies.github.io/)
     + Credly : [supakhim.ko](https://www.credly.com/users/supakhim.ko)
-    + Glossary : [Archive Bit](https://kocies.github.io/archive-bit), [Keepalive Messages](https://kocies.github.io/keepalive-messages)
+    + Glossary : [Archive Bit](https://kocies.github.io/archive-bit), [Keepalive Messages](https://kocies.github.io/keepalive-messages), [Network Printer](https://kocies.github.io/network-printer)
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
     + GitHub Page : [mutodeiei](https://mutodeiei.github.io/)
-    + Glossary : [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile), [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup), [Network Printer](https://mutodeiei.github.io/glossary/terminal)
+    + Glossary : [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile), [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup), [Terminal](https://mutodeiei.github.io/glossary/terminal)
 + Thanet Chomsri
     + GitHub : [Got2546](https://github.com/Got2546)
     + GitHub Page : [got2546](https://got2546.github.io/)
@@ -98,11 +98,12 @@
 [Local Group](https://playtwo2543.github.io/local-group),
 [Madman.mib](https://whalienz.github.io/madman-mib),
 [NAT](https://preeyanuchmimi.github.io/NAT),
-[Network Printer](https://mutodeiei.github.io/glossary/terminal),
+[Network Printer](https://kocies.github.io/network-printer),
 [Node](https://whalienz.github.io/node),
 [Page](https://apichitpek.github.io/page),
 [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup),
 [Template](https://apichitpek.github.io/template),
+[Terminal](https://mutodeiei.github.io/glossary/terminal),
 [X.500](https://playtwo2543.github.io/X500),
 [Zone](https://apichitpek.github.io/zone)
 
