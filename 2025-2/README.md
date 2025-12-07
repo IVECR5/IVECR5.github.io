@@ -69,7 +69,8 @@
     + Credly : [supakhim.ko](https://www.credly.com/users/supakhim.ko)
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
-    + GitHub Page: N/A
+    + GitHub Page : [mutodeiei](https://mutodeiei.github.io/)
+    + Glossary : [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile)
 + Thanet Chomsri
     + GitHub : [Got2546](https://github.com/Got2546)
     + GitHub Page : [got2546](https://got2546.github.io/)
@@ -89,6 +90,7 @@
 [Dig](https://boonmeemira.github.io/Dig),
 [Dynamic Routing](https://whalienz.github.io/dynamic-routing),
 [Firewall](https://program-phakanan.github.io/firewall),
+[Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile),
 [Java](https://playtwo2543.github.io/java),
 [Local Group](https://playtwo2543.github.io/local-group),
 [Madman.mib](https://whalienz.github.io/madman-mib),
