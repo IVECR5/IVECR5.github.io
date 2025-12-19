@@ -47,6 +47,7 @@
     + GitHub : [PanuKason](https://github.com/PanuKason)
     + GitHub Page: [panukason](https://panukason.github.io/)
     + Credly : [panukason99](https://www.credly.com/users/panukason99/)
+    + Glossary : [Backup Set](https://panukason.github.io/backup-set), [Circular Logging](https://panukason.github.io/circular-logging)
 + Phakanan Aiemsa-ard
     + GitHub : [Program-Phakanan](https://github.com/Program-Phakanan)
     + GitHub Page : [program-phakanan](https://program-phakanan.github.io/)
@@ -87,8 +88,10 @@
 [Archive Bit](https://kocies.github.io/archive-bit),
 [Authentication](https://program-phakanan.github.io/authentication),
 [Backup Log](https://preeyanuchmimi.github.io/backup-log),
+[Backup Set](https://panukason.github.io/backup-set),
 [BGP Speaker](https://boonmeemira.github.io/BGP-speaker),
 [CIDR](https://preeyanuchmimi.github.io/CIDR),
+[Circular Logging](https://panukason.github.io/circular-logging),
 [Console](https://program-phakanan.github.io/console),
 [CPU](https://boonmeemira.github.io/CPU),
 [Dig](https://boonmeemira.github.io/Dig),
