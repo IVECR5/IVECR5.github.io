@@ -57,6 +57,7 @@
     + GitHub : [aeng1596](https://github.com/aeng1596)
     + GitHub Page: [aeng1596](https://aeng1596.github.io/)
     + Credly : [phattaphon-aeng16](credly.com/users/phattaphon-aeng16)
+    + Glossary : [Adapter Card](https://aeng1596.github.io/adapter-card), [Newsreader](https://aeng1596.github.io/newsreader), [Off-site Storage](https://aeng1596.github.io/off-site-storage)
 + Preeyanuch Beawbungkerd
     + GitHub : [Preeyanuchmimi](https://github.com/Preeyanuchmimi)
     + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
@@ -85,6 +86,7 @@
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์") (ເມຄິນ ວໍຣະສາດ, ຂວດ)
 
 ## Glossary
+[Adapter Card](https://aeng1596.github.io/adapter-card),
 [Archive Bit](https://kocies.github.io/archive-bit),
 [Authentication](https://program-phakanan.github.io/authentication),
 [Backup Log](https://preeyanuchmimi.github.io/backup-log),
@@ -104,7 +106,9 @@
 [Madman.mib](https://whalienz.github.io/madman-mib),
 [NAT](https://preeyanuchmimi.github.io/NAT),
 [Network Printer](https://kocies.github.io/network-printer),
+[Newsreader](https://aeng1596.github.io/newsreader),
 [Node](https://whalienz.github.io/node),
+[Off-site Storage](https://aeng1596.github.io/off-site-storage)
 [Page](https://apichitpek.github.io/page),
 [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup),
 [Template](https://apichitpek.github.io/template),
