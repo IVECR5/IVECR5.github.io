@@ -71,7 +71,7 @@
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page : [kum2546](https://kum2546.github.io/)
     + Credly : [kum2546](https://www.credly.com/users/kum2546)
-    + Glossary : [Database](https://kum2546.github.io/Database), 
+    + Glossary : [Client](https://kum2546.github.io/Client), [Database](https://kum2546.github.io/Database), 
 + Suparut Kumbungka
     + GitHub : [kocies](https://github.com/kocies)
     + GitHub Page : [kocies](https://kocies.github.io/)
@@ -100,6 +100,7 @@
 [BGP Speaker](https://boonmeemira.github.io/BGP-speaker),
 [CIDR](https://preeyanuchmimi.github.io/CIDR),
 [Circular Logging](https://panukason.github.io/circular-logging),
+[Client](https://kum2546.github.io/Client),
 [Console](https://program-phakanan.github.io/console),
 [CPU](https://boonmeemira.github.io/CPU),
 [Database](https://kum2546.github.io/Database),
