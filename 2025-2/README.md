@@ -71,6 +71,7 @@
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page : [kum2546](https://kum2546.github.io/)
     + Credly : [kum2546](https://www.credly.com/users/kum2546)
+    + Glossary : [Database](https://kum2546.github.io/Database), 
 + Suparut Kumbungka
     + GitHub : [kocies](https://github.com/kocies)
     + GitHub Page : [kocies](https://kocies.github.io/)
@@ -101,6 +102,7 @@
 [Circular Logging](https://panukason.github.io/circular-logging),
 [Console](https://program-phakanan.github.io/console),
 [CPU](https://boonmeemira.github.io/CPU),
+[Database](https://kum2546.github.io/Database),
 [Dig](https://boonmeemira.github.io/Dig),
 [Dynamic Routing](https://whalienz.github.io/dynamic-routing),
 [Firewall](https://program-phakanan.github.io/firewall),
