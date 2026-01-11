@@ -94,6 +94,7 @@
     + GitHub Page : [got2546](https://got2546.github.io/)
     + Credly : [tha_nex](credly.com/users/tha_nex)
     + Steg : [Christmas](https://got2546.github.io/Christmas)
+    + Gemini : [Gemini Certified Educator](https://www.credential.net/dc54177f-864b-4464-9fc9-f89a54a39d5d), [Gemini Certified University Student](https://www.credential.net/3ce99f5a-85cc-4c3b-a9b5-226996601973), [Gemini Certified Faculty](https://www.credential.net/f0acbcf2-9fb0-4e01-9f7f-a433c56d11d6)
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart"), PhD
