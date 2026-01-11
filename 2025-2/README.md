@@ -71,6 +71,7 @@
     + GitHub Page: [preeyanuchmimi](https://preeyanuchmimi.github.io/)
     + Credly : [preeyanuchmimi](https://www.credly.com/users/preeyanuchmimi)
     + Glossary : [Backup Log](https://preeyanuchmimi.github.io/backup-log), [CIDR](https://preeyanuchmimi.github.io/CIDR), [NAT](https://preeyanuchmimi.github.io/NAT)
+    + LabSimApp : [Disable Inheritance & NTFS Permission](https://preeyanuchmimi.github.io/Lab-Disable-Inheritance)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page : [kum2546](https://kum2546.github.io/)
