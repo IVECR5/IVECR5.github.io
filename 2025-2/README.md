@@ -35,6 +35,7 @@
     + GitHub Page : [aroonphat](https://aroonphat.github.io/)
     + GitHub Page : [aroonphattt-03](https://aroonphattt-03.github.io/)
     + Credly : [aroonphat33](https://www.credly.com/users/aroonphat33/)
+    + Glossary : [Application](https://aroonphattt-03.github.io/application), [Browser](https://aroonphattt-03.github.io/browser), [Cache Manager](https://aroonphattt-03.github.io/Cache-Manager)
 + Boonmee
     + GitHub : [boonmeemira](https://github.com/boonmeemira)
     + GitHub Page : [boonmeemira](https://boonmeemira.github.io/)
@@ -102,11 +103,14 @@
 
 ## Glossary
 [Adapter Card](https://aeng1596.github.io/adapter-card),
+[Application](https://aroonphattt-03.github.io/application),
 [Archive Bit](https://kocies.github.io/archive-bit),
 [Authentication](https://program-phakanan.github.io/authentication),
 [Backup Log](https://preeyanuchmimi.github.io/backup-log),
 [Backup Set](https://panukason.github.io/backup-set),
 [BGP Speaker](https://boonmeemira.github.io/BGP-speaker),
+[Browser](https://aroonphattt-03.github.io/browser),
+[Cache Manager](https://aroonphattt-03.github.io/Cache-Manager),
 [CIDR](https://preeyanuchmimi.github.io/CIDR),
 [Circular Logging](https://panukason.github.io/circular-logging),
 [Client](https://kum2546.github.io/Client),
