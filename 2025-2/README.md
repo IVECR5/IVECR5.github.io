@@ -82,6 +82,7 @@
     + Glossary : [Client](https://kum2546.github.io/Client), [Database](https://kum2546.github.io/Database), [Default](https://kum2546.github.io/Default)
     + Steg : [New-Year](https://kum2546.github.io/NewYear)
     + LabSimApp : [Manage Certificates](https://kum2546.github.io/Lab)
+    + Gemini : [Gemini Certified Student](https://www.credential.net/73a6a048-e027-4e21-8282-f41b977fd977), 
 + Suparut Kumbungka
     + GitHub : [kocies](https://github.com/kocies)
     + GitHub Page : [kocies](https://kocies.github.io/)
