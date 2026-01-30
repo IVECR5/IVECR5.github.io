@@ -16,7 +16,8 @@
 [Dec 21, 2025](https://youtu.be/QTZnx5FqD94) |
 [Dec 27, 2025](https://youtu.be/u5cGWt0KqMk) |
 [Jan 11, 2026](https://youtu.be/EK4wwFxUJoo) |
-[Jan 25, 2026](https://youtu.be/XaVgdTpg90s)
+[Jan 25, 2026](https://youtu.be/XaVgdTpg90s) |
+[Jan 30, 2026](https://youtu.be/YWZpHv56lMk)
 
 ## Students
 + Aekkaphat Daengpayon
