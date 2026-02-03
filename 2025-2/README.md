@@ -18,7 +18,7 @@
 [Jan 11, 2026](https://youtu.be/EK4wwFxUJoo) |
 [Jan 25, 2026](https://youtu.be/XaVgdTpg90s) |
 [Jan 30, 2026](https://youtu.be/YWZpHv56lMk) |
-[Feb 1, 2026](https://youtu.be/O8ybobVVpWI)
+[Feb 1, 2026](https://youtu.be/O8ybobVVpWI) |
 
 ## Students
 + Aekkaphat Daengpayon
@@ -55,6 +55,7 @@
     + Credly : [whalienz52](https://www.credly.com/users/whalienz52/)
     + Glossary : [Dynamic Routing](https://whalienz.github.io/dynamic-routing), [Madman.mib](https://whalienz.github.io/madman-mib), [Node](https://whalienz.github.io/node)
     + Steg : [Happy New Year](https://whalienz.github.io/happy-new-year/)
+    + Web Security : [Session Fixation](https://whalienz.github.io/session-fixation/)
 + Pajaree Noree
     + GitHub : [Domi-chan](https://github.com/Domi-chan)
     + GitHub Page: [domi-chan](https://domi-chan.github.io/)
