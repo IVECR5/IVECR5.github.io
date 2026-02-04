@@ -36,7 +36,7 @@
     + Steg : [New Year](https://apichitpek.github.io/Steganography-Online)
     + LabSimApp : [Configure a VPN Connection iPad](https://apichitpek.github.io/Configure-a-VPN-Connection-iPad)
     + PDPA : [CCTV](https://apichitpek.github.io/PDPA-Picture)
-    + Control : [Google Login Security Alert](#)
+    + Control : [Google Login Security Alert](https://apichitpek.github.io/Google-Login-Security-Alert), [Padlock and Chain](https://apichitpek.github.io/Padlock-and-Chain)
 + Aroonphat Seehanan
     + GitHub : [Aroonphat](https://github.com/Aroonphat)
     + GitHub Page : [aroonphat](https://aroonphat.github.io/)
