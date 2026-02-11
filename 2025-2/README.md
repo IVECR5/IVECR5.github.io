@@ -40,6 +40,7 @@
     + PDPA : [CCTV](https://apichitpek.github.io/PDPA-Picture)
     + Control : [Google Login Security Alert](https://apichitpek.github.io/Google-Login-Security-Alert), [Padlock and Chain](https://apichitpek.github.io/Padlock-and-Chain)
     + Gemini : [Gemini Certified Educator](https://edu.google.accredible.com/28447545-312d-442f-ae8e-e0f262a98b88#acc.bKlBOEAz), [Faculty](https://edu.google.accredible.com/f83f4fca-f641-43fd-aa7f-16ff534c1634#acc.atqWYC4S), [Student](https://edu.google.accredible.com/c0bf45c3-d7cc-4a1c-a62b-74e1c9abaa6b#acc.3kDPwHRG)
+    + Web Security : [Host Header Attack (Reset Poisoning)](https://apichitpek.github.io/Host-Header-Attack)
 + Aroonphat Seehanan
     + GitHub : [Aroonphat](https://github.com/Aroonphat)
     + GitHub Page : [aroonphat](https://aroonphat.github.io/)
