@@ -60,6 +60,7 @@
     + Glossary : [Dynamic Routing](https://whalienz.github.io/dynamic-routing), [Madman.mib](https://whalienz.github.io/madman-mib), [Node](https://whalienz.github.io/node)
     + Steg : [Happy New Year](https://whalienz.github.io/happy-new-year/)
     + Web Security : [Session Fixation](https://whalienz.github.io/session-fixation/)
+    + LabSimApp : [Configure Advanced Audit Policy](https://whalienz.github.io/lab-configure-advanced-audit-policy/)
 + Pajaree Noree
     + GitHub : [Domi-chan](https://github.com/Domi-chan)
     + GitHub Page: [domi-chan](https://domi-chan.github.io/)
