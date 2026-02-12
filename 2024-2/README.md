@@ -46,6 +46,7 @@
 + Tanakorn Pramualpollapat
     + ธนากร ประมวลพลภัตต์
     + [GitHub](https://github.com/tanakorn5670), [GitHub Page](https://tanakorn5670.github.io/), [Credly](https://www.credly.com/users/tanakorn5670)
+    + Publication : [Robustness Student Regular Uniform Compliance Tracking System using Scripting Platform, Cloud-Based Form and Online Spreadsheet](Publication/2025-03-28_NCAR68_Uniform_467-478.pdf)
 
 + Wanussanai Karin
     + วนัสนัย กะริน
