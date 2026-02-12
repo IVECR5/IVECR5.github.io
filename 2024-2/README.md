@@ -18,6 +18,7 @@
 + Kittikan Subkhum
     + กิตติกานต์ ทรัพย์ขำ
     + [GitHub](https://github.com/Kittikan1810), [GitHub Page](https://Kittikan1810.github.io/), [Credly](https://www.credly.com/users/kittikan)
+    + Publication : [Low-cost IT Infrastructure Service Improvement Using Open-source Virtualization Platform: A Case Study of CH Injection Co., Ltd.](2025-03-07_PCRUSCI_Proxmox_334-345.pdf)
     
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
