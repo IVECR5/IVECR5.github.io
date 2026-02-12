@@ -18,13 +18,12 @@
 + Kittikan Subkhum
     + กิตติกานต์ ทรัพย์ขำ
     + [GitHub](https://github.com/Kittikan1810), [GitHub Page](https://Kittikan1810.github.io/), [Credly](https://www.credly.com/users/kittikan)
-    + Publication : [Low-cost IT Infrastructure Service Improvement Using Open-source Virtualization Platform: A Case Study of CH Injection Co., Ltd.](2025-03-07_PCRUSCI_Proxmox_334-345.pdf)
-    
+        
 + Kittiphat Prasopsuwan
     + กิตติพัฒน์ ประสพสุวรรณ
     + [GitHub](https://github.com/aomnutza58), [GitHub Page](https://aomnutza58.github.io/), [Credly](https://www.credly.com/users/kittiphat-prasopsuwan.8329778d)
     + [Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/eeed2765-5957-4912-9a4b-806d5c0b9ff1)
-    + "**Low-cost IT Infrastructure Service Improvement Using Open-source Virtualization Platform: A Case Study of CH Injection Co., Ltd.**"
+    + Publication : ["**Low-cost IT Infrastructure Service Improvement Using Open-source Virtualization Platform: A Case Study of CH Injection Co., Ltd.**"]((2025-03-07_PCRUSCI_Proxmox_334-345.pdf))
 
 + Mintada Thongchai
     + มิณฐดา ทองไชย
