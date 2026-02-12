@@ -62,3 +62,4 @@
 + Wuttipong Bunthai
     + วุฒิพงษ์ บุญไทย
     + [GitHub](https://github.com/kQx2003), [GitHub Page](https://kqx2003.github.io/), [Credly](https://www.credly.com/users/14-kq)
+    + Publication : ["**Applying Open-source Home Automation Software with Low-cost and Low-power Microcontrollers to Enhance Farm Automation**"](Publication/2025-03-10_NCTIM2025_477-483_Home-Automation.pdf)
