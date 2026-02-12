@@ -115,6 +115,7 @@
     + Gemini : [Gemini Certified Educator](https://www.credential.net/dc54177f-864b-4464-9fc9-f89a54a39d5d), [Gemini Certified University Student](https://www.credential.net/3ce99f5a-85cc-4c3b-a9b5-226996601973), [Gemini Certified Faculty](https://www.credential.net/f0acbcf2-9fb0-4e01-9f7f-a433c56d11d6)
     + PDPA : [CCTV](https://got2546.github.io/PDPA)
     + Web Security : [LFI](https://got2546.github.io/LFI)
+    + Glossary : [Channels](https://got2546.github.io/Vocabuary/channels), [Thread](https://got2546.github.io/Vocabuary/thread)
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart"), PhD
@@ -130,6 +131,7 @@
 [BGP Speaker](https://boonmeemira.github.io/BGP-speaker),
 [Browser](https://aroonphattt-03.github.io/browser),
 [Cache Manager](https://aroonphattt-03.github.io/Cache-Manager),
+[Channels](https://got2546.github.io/Vocabuary/channels),
 [CIDR](https://preeyanuchmimi.github.io/CIDR),
 [Circular Logging](https://panukason.github.io/circular-logging),
 [Client](https://kum2546.github.io/Client),
@@ -154,6 +156,7 @@
 [Remote Network Backup](https://mutodeiei.github.io/glossary/remote-network-backup),
 [Template](https://apichitpek.github.io/template),
 [Terminal](https://mutodeiei.github.io/glossary/terminal),
+[Thread](https://got2546.github.io/Vocabuary/thread),
 [X.500](https://playtwo2543.github.io/X500),
 [Zone](https://apichitpek.github.io/zone)
 
