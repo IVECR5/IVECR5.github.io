@@ -115,7 +115,7 @@
     + Gemini : [Gemini Certified Educator](https://www.credential.net/dc54177f-864b-4464-9fc9-f89a54a39d5d), [Gemini Certified University Student](https://www.credential.net/3ce99f5a-85cc-4c3b-a9b5-226996601973), [Gemini Certified Faculty](https://www.credential.net/f0acbcf2-9fb0-4e01-9f7f-a433c56d11d6)
     + PDPA : [CCTV](https://got2546.github.io/PDPA)
     + Web Security : [LFI](https://got2546.github.io/LFI)
-    + Glossary : [Channels](https://got2546.github.io/Vocabuary/channels), [Thread](https://got2546.github.io/Vocabuary/thread)
+    + Glossary : [Channels](https://got2546.github.io/Vocabuary/channels), [GPO](https://got2546.github.io/Vocabuary/GPO), [Thread](https://got2546.github.io/Vocabuary/thread)
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart"), PhD
@@ -142,6 +142,7 @@
 [Dig](https://boonmeemira.github.io/Dig),
 [Dynamic Routing](https://whalienz.github.io/dynamic-routing),
 [Firewall](https://program-phakanan.github.io/firewall),
+[GPO](https://got2546.github.io/Vocabuary/GPO),
 [Hardware Profile](https://mutodeiei.github.io/glossary/hardware-profile),
 [Java](https://playtwo2543.github.io/java),
 [Keepalive Messages](https://kocies.github.io/keepalive-messages),
