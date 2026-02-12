@@ -52,6 +52,7 @@
     + วนัสนัย กะริน
     + [GitHub](https://github.com/freel2545), [GitHub Page](https://freel2545.github.io/), [Credly](https://www.credly.com/users/freel5)
     + [Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/40e8ccbe-63d6-41cd-9182-aa6b208fa104)
+    + Publication : ["**Automated Solar Tracking System Using Open-source Microcontroller with Low-code IoT Cloud Platform**"](Publication/2025-03-10_NCTIM2025_456-463_Solar-Tracking.pdf)
 
 + Witsarut Khuntangtong
     + วิศรุต คุณทั่งทอง
