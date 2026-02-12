@@ -10,7 +10,7 @@
 
 
 ## Lecturer
-+ [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
++ [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart), PhD
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")
     + [ເມຄິນ ວໍຣະສາດ, ຂວດ](https://www.google.com/search?q="ເມຄິນ ວໍຣະສາດ ຂວດ")
 
