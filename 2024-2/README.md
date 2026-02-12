@@ -33,6 +33,7 @@
     + นราธิป ใยปางแก้ว
     + [GitHub](https://github.com/Mon5te2), [GitHub Page](https://Mon5te2.github.io/), [Credly](https://www.credly.com/users/monster_z)
     + [Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/fe811bc8-394f-4aa2-aa0f-e3188bbe0c8c)
+    + Publication : ["**Seamless IT Service Request and Monitoring Dashboard using Cloud-based Interactive Charts: A Case Study of Big Ben Chemical Co., Ltd.**"](Publication/2025-03-10_NCTIM2025_484-490_Service-Request.pdf)
 
 + Natthanan Petdonthong
     + ณัฐนันท์ เพชรดอนทอง
