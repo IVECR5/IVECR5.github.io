@@ -19,7 +19,8 @@
 [Jan 25, 2026](https://youtu.be/XaVgdTpg90s) |
 [Jan 30, 2026](https://youtu.be/YWZpHv56lMk) |
 [Feb 1, 2026](https://youtu.be/O8ybobVVpWI) |
-[Feb 8, 2026](https://youtu.be/gfkpB2cQaNM)
+[Feb 8, 2026](https://youtu.be/gfkpB2cQaNM) |
+[Feb 15, 2026](https://youtu.be/GlX-S_VMjSk)
 
 ## Students
 + Aekkaphat Daengpayon
