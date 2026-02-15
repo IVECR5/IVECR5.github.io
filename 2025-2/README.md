@@ -118,6 +118,7 @@
     + PDPA : [CCTV](https://got2546.github.io/PDPA)
     + Web Security : [LFI](https://got2546.github.io/LFI)
     + Glossary : [Channels](https://got2546.github.io/Vocabuary/channels), [GPO](https://got2546.github.io/Vocabuary/GPO), [Thread](https://got2546.github.io/Vocabuary/thread)
+    + Zero Trust : [Authentication](https://got2546.github.io/Authentication)
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart"), PhD
