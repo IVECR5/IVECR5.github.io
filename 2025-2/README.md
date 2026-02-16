@@ -29,8 +29,9 @@
     + Credly : [jxkpz](https://credly.com/users/jxkpz)
     + Glossary : [Java](https://playtwo2543.github.io/java), [Local Group](https://playtwo2543.github.io/local-group), [X.500](https://playtwo2543.github.io/X500)
     + Steg : [New Year](https://playtwo2543.github.io/new-year)
-    + Control : [Breaker](https://playtwo2543.github.io/Breaker)*, [Curtain](https://playtwo2543.github.io/Curtain)
+    + Control : [Breaker](https://playtwo2543.github.io/Breaker)<sup>x</sup>, [Curtain](https://playtwo2543.github.io/Curtain)
     + PDPA : [CCTV](https://playtwo2543.github.io/PDPA)
+    + Web Security : [Cross-Site-Scripting - Reflected (JSON)](https://playtwo2543.github.io/Cross-Site-Scripting)<sup>x</sup>
 + Apichit Duangsa
     + GitHub : [ApichitPek](https://github.com/ApichitPek)
     + GitHub Page: [apichitpek](https://apichitpek.github.io/)
