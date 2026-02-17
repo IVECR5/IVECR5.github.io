@@ -103,6 +103,7 @@
     + LabSimApp : [Manage Certificates](https://kum2546.github.io/Lab)
     + Gemini : [Gemini Certified Student](https://www.credential.net/73a6a048-e027-4e21-8282-f41b977fd977), [Gemini Certified Educator](https://www.credential.net/516a3eb1-28c1-4363-bb69-15f127a8c27d), [Gemini Certified Faculty](https://www.credential.net/6b9bb434-3548-4bad-9aeb-3f4088a931f5)
     + PDPA : [CCTV](https://kum2546.github.io/DailyLife)
+    + Control : [No Smoking](https://kum2546.github.io/no-smoking), [High Voltage](https://kum2546.github.io/warning-high-voltage)
 + Suparut Kumbungka
     + GitHub : [kocies](https://github.com/kocies)
     + GitHub Page : [kocies](https://kocies.github.io/)
