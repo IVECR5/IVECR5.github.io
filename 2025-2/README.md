@@ -97,6 +97,7 @@
     + Steg : [HNY](https://preeyanuchmimi.github.io/New-year)
     + PDPA : [CCTV](https://preeyanuchmimi.github.io/PDPA)
     + Web Security : [Cross-Site Scripting (XSS) - Reflected](https://preeyanuchmimi.github.io/xss-back-button.php)
+    + Zero Trust : [Identity Data](https://preeyanuchmimi.github.io/Identity-Data)
 + Satakun Kaphon
     + GitHub : [Kum2546](https://github.com/Kum2546)
     + GitHub Page : [kum2546](https://kum2546.github.io/)
