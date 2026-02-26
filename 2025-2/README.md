@@ -130,6 +130,7 @@
     + PDPA : [CCTV](https://kocies.github.io/P-D-P-A)
     + Steg : [HNY](https://kocies.github.io/Card-New-Year-2026)
     + Zero Trust : [PDPA](https://kocies.github.io/Zero-trust-PDPA)
+    + Control : [Wall](https://kocies.github.io/Wall.html)
 + Teerapong Jansommit
     + GitHub : [mutodeiei](https://github.com/mutodeiei)
     + GitHub Page : [mutodeiei](https://mutodeiei.github.io/)
