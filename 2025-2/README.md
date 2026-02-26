@@ -51,6 +51,7 @@
     + Credly : [aroonphat33](https://www.credly.com/users/aroonphat33/)
     + Glossary : [Application](https://aroonphattt-03.github.io/application), [Browser](https://aroonphattt-03.github.io/browser), [Cache Manager](https://aroonphattt-03.github.io/Cache-Manager)
     + Steg : [HNY](https://aroonphattt-03.github.io/HappyNewyear)
+    + Control : [Insect Trap](https://aroonphattt-03.github.io/Insect-trap), [Cap Measurement](https://aroonphattt-03.github.io/Cap-measuring-instrument)
 + Boonmee
     + GitHub : [boonmeemira](https://github.com/boonmeemira)
     + GitHub Page : [boonmeemira](https://boonmeemira.github.io/)
