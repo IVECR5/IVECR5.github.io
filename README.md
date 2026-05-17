@@ -1,5 +1,6 @@
 # Maykin's Course[s]
 
++ [[2026/1](2026-1)] - [Preparation for IT Innovation Project](2026-1) - IT12
 + [[2025/2](2025-2)] - [Computer System Security](2025-2) - IT11
 + [[2024/2](2024-2)] - [Die & Mold Innovation Project](2024-2) - IT10
 + [[2024/1](2024-1)] - [IT Innovation Project 1](2024-1) - IT10
