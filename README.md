@@ -1,4 +1,4 @@
-# Maykin's Course[s]
+# Maykin Warasart's Course[s]
 
 + [[2026/1](2026-1)] - [Preparation for IT Innovation Project](2026-1) - IT12
 + [[2025/2](2025-2)] - [Computer System Security](2025-2) - IT11
