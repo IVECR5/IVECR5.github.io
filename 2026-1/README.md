@@ -3,7 +3,7 @@
 + เตรียมโครงการนวัตกรรมทางเทคโนโลยีสารสนเทศ
 
 ## Classes
-+ July 26, Aug 2, Aug 9, Aug 16, Aug 23, Aug 30, Sep 6, Sep 13, Sep 20 
++ May 31, Jun 7, Jun 14, Jun 21, Jun 28, Jul 5, Jul 12, Jul 19
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
