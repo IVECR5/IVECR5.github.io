@@ -11,7 +11,16 @@
     + [ເມຄິນ ວໍຣະສາດ, ຂວດ](https://www.google.com/search?q="ເມຄິນ ວໍຣະສາດ ຂວດ")
 
 ## Members
-+ TBA
++ Jantaras Temtong
++ Jitsupa Kraitruadpon
++ Jittraporn Kraitruadpon
++ Kiadtisak Numon
++ Kitisak Duangnuam
++ Noppadon Subbun
++ Parada Sangpiti
++ Sumit Pariwong
++ Tanapat Oumphed
++ Tida Jaewsakul
 
 ## Special Activity
 + TBA
