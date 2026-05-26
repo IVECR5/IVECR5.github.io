@@ -22,6 +22,7 @@
     + [GitHub](https://github.com/kitisakG)
 + Noppadon Subbun
 + Parada Sangpiti
+    + [GitHub](https://github.com/parada-em)
 + Sumit Pariwong
     + [GitHub](https://github.com/sumitpariwong2004-design)
 + Tanapat Oumphed
