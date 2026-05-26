@@ -14,6 +14,7 @@
 + Jantaras Temtong
     + [GitHub](https://github.com/sximi)
 + Jitsupa Kraitruadpon
+    + [GitHub](https://github.com/Jitsupa2004)
 + Jittraporn Kraitruadpon
 + Kiadtisak Numon
 + Kitisak Duangnuam
