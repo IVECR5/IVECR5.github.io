@@ -16,6 +16,7 @@
 + Jitsupa Kraitruadpon
     + [GitHub](https://github.com/Jitsupa2004)
 + Jittraporn Kraitruadpon
+    + [GitHub](https://github.com/jittraporn928262-bit)
 + Kiadtisak Numon
 + Kitisak Duangnuam
     + [GitHub](https://github.com/kitisakG)
