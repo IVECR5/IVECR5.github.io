@@ -12,19 +12,19 @@
 
 ## Members
 + Jantaras Temtong
-    + [GitHub](https://github.com/sximi)
+    + [GitHub](https://github.com/sximi) [Page](https://sximi.github.io)
 + Jitsupa Kraitruadpon
-    + [GitHub](https://github.com/Jitsupa2004)
+    + [GitHub](https://github.com/Jitsupa2004) [Page](https://Jitsupa2004.github.io)
 + Jittraporn Kraitruadpon
-    + [GitHub](https://github.com/jittraporn928262-bit)
+    + [GitHub](https://github.com/jittraporn928262-bit) [Page](https://jittraporn928262-bit.github.io)
 + Kiadtisak Numon
 + Kitisak Duangnuam
-    + [GitHub](https://github.com/kitisakG)
+    + [GitHub](https://github.com/kitisakG) [Page](https://kitisakG.github.io)
 + Noppadon Subbun
 + Parada Sangpiti
-    + [GitHub](https://github.com/parada-em)
+    + [GitHub](https://github.com/parada-em) [Page](https://parada-em.github.io)
 + Sumit Pariwong
-    + [GitHub](https://github.com/sumitpariwong2004-design)
+    + [GitHub](https://github.com/sumitpariwong2004-design) [Page](https://sumitpariwong2004-design.github.io)
 + Tanapat Oumphed
 + Tida Jaewsakul
 
