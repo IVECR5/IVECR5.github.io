@@ -12,6 +12,7 @@
 
 ## Members
 + Jantaras Temtong
+    + [GitHub](https://github.com/sximi)
 + Jitsupa Kraitruadpon
 + Jittraporn Kraitruadpon
 + Kiadtisak Numon
