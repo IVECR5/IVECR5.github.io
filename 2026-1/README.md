@@ -18,6 +18,7 @@
 + Jittraporn Kraitruadpon
     + [GitHub](https://github.com/jittraporn928262-bit) [Page](https://jittraporn928262-bit.github.io)
 + Kiadtisak Numon
+    + [GitHub](https://github.com/naxkaittisak) [Page](https://naxkaittisak.github.io)
 + Kitisak Duangnuam
     + [GitHub](https://github.com/kitisakG) [Page](https://kitisakg.github.io)
 + Noppadon Subbun
