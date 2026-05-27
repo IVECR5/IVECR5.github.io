@@ -26,6 +26,7 @@
 + Sumit Pariwong
     + [GitHub](https://github.com/sumitpariwong2004-design) [Page](https://sumitpariwong2004-design.github.io)
 + Tanapat Oumphed
+    + [GitHub](https://github.com/JoTnp) [Page](https://JoTnp.github.io)
 + Tida Jaewsakul
 
 ## Special Activity
