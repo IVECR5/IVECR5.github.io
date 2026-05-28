@@ -29,6 +29,7 @@
 + Tanapat Oumphed
     + [GitHub](https://github.com/JoTnp) [Page](https://JoTnp.github.io)
 + Tida Jaewsakul
+    + [GitHub](https://github.com/tida492547) [Page](https://tida492547.github.io)
 
 ## Special Activity
 + TBA
