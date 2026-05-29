@@ -22,6 +22,7 @@
 + Kitisak Duangnuam
     + [GitHub](https://github.com/kitisakG) [Page](https://kitisakg.github.io)
 + Noppadon Subbun
+    + [GitHub](https://github.com/Doctor987) [Page](https://Doctor987.github.io)
 + Parada Sangpiti
     + [GitHub](https://github.com/parada-em) [Page](https://parada-em.github.io)
 + Sumit Pariwong
