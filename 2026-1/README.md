@@ -26,7 +26,7 @@
 + Parada Sangpiti
     + [GitHub](https://github.com/parada-em) [Page](https://parada-em.github.io)
 + Sumit Pariwong
-    + [GitHub](https://github.com/sumitpariwong2004-design) [Page](https://sumitpariwong2004-design.github.io)
+    + [GitHub](https://github.com/yearsumit311247) [Page](https://yearsumit311247.github.io)
 + Tanapat Oumphed
     + [GitHub](https://github.com/JoTnp) [Page](https://JoTnp.github.io)
 + Tida Jaewsakul
