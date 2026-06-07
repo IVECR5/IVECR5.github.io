@@ -32,6 +32,7 @@
     + [Full-Stack](https://naxkaittisak.github.io/full-stack), [PostgreSQL](https://naxkaittisak.github.io/postgresql), [API](https://naxkaittisak.github.io/api)
 + Kitisak Duangnuam
     + [GitHub](https://github.com/kitisakG) [Page](https://kitisakg.github.io)
+    + [AI](https://kitisakg.github.io/artificial-intelligence), [Cybersecurity](https://kitisakg.github.io/cybersecurity), [Big Data](https://kitisakg.github.io/big-data)
 + Noppadon Subbun
     + [GitHub](https://github.com/Doctor987) [Page](https://Doctor987.github.io)
 + Parada Sangpiti
@@ -47,6 +48,9 @@
 + TBA
 
 ## Keyword(s)
+[AI](https://kitisakg.github.io/artificial-intelligence),
 [API](https://naxkaittisak.github.io/api),
+[Big Data](https://kitisakg.github.io/big-data),
+[Cybersecurity](https://kitisakg.github.io/cybersecurity),
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
 [PostgreSQL](https://naxkaittisak.github.io/postgresql), 
