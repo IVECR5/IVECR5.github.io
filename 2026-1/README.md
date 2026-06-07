@@ -9,8 +9,6 @@
 
 [![Picture of IT12](attendance/2026-06-07.jpg "IT12 of IVECR-5 on June 1, 2026")](attendance/2026-06-07_o.jpg)
 
-attendance
-
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")
