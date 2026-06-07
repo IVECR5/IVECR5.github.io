@@ -25,6 +25,7 @@
     + [GitHub](https://github.com/sximi) [Page](https://sximi.github.io)
 + Jitsupa Kraitruadpon
     + [GitHub](https://github.com/jitsupa2004) [Page](https://jitsupa2004.github.io)
+    + [Project](https://jitsupa2004.github.io/Project)
 + Jittraporn Kraitruadpon
     + [GitHub](https://github.com/jittraporn928262-bit) [Page](https://jittraporn928262-bit.github.io)
 + Kiadtisak Numon
