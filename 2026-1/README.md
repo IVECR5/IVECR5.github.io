@@ -7,6 +7,8 @@
 
 [![Picture of IT12](attendance/2026-05-31.jpg "IT12 of IVECR-5 on May 31, 2026")](attendance/2026-05-31_o.jpg)
 
+[![Picture of IT12](attendance/2026-06-07.jpg "IT12 of IVECR-5 on June 1, 2026")](attendance/2026-06-07_o.jpg)
+
 attendance
 
 ## Lecturer
