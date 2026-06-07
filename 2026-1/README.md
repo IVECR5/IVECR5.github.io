@@ -3,11 +3,19 @@
 + เตรียมโครงการนวัตกรรมทางเทคโนโลยีสารสนเทศ
 
 ## Classes
-+ May 31, Jun 7, Jun 14, Jun 21, Jun 28, Jul 5, Jul 12, Jul 19
-
++ May 31
 [![Picture of IT12](attendance/2026-05-31.jpg "IT12 of IVECR-5 on May 31, 2026")](attendance/2026-05-31_o.jpg)
-
++ Jun 7
 [![Picture of IT12](attendance/2026-06-07.jpg "IT12 of IVECR-5 on June 1, 2026")](attendance/2026-06-07_o.jpg)
++ Jun 14
++ Jun 21
++ Jun 28
++ Jul 5
++ Jul 12
++ Jul 19
+
+
+
 
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
