@@ -5,6 +5,10 @@
 ## Classes
 + May 31, Jun 7, Jun 14, Jun 21, Jun 28, Jul 5, Jul 12, Jul 19
 
+[![Picture of IT12](attendance/2026-05-31.jpg "IT12 of IVECR-5 on May 31, 2026")](attendance/2026-05-31_o.jpg)
+
+attendance
+
 ## Lecturer
 + [Maykin Warasart](https://www.google.com/search?q=Maykin+Warasart)
     + [เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")
