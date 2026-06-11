@@ -45,7 +45,7 @@
     + [GitHub](https://github.com/JoTnp) [Page](https://JoTnp.github.io)
 + Tida Jaewsakul
     + [GitHub](https://github.com/tida492547) [Page](https://tida492547.github.io)
-    + [Docker](https://tida492547.github.io/docker/)
+    + [Docker](https://tida492547.github.io/docker/), [Microservices](https://tida492547.github.io/microservices/), [CI/CD](https://tida492547.github.io/cicd/)
 
 ## Special Activity
 + TBA
@@ -54,10 +54,12 @@
 [AI](https://kitisakg.github.io/artificial-intelligence),
 [API](https://naxkaittisak.github.io/api),
 [Big Data](https://kitisakg.github.io/big-data),
+[CI/CD](https://tida492547.github.io/cicd),
 [Cybersecurity](https://kitisakg.github.io/cybersecurity),
 [Docker](https://tida492547.github.io/docker),
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
 [Internet](https://parada-em.github.io/Internet),
+[Microservices](https://tida492547.github.io/microservices),
 [PostgreSQL](https://naxkaittisak.github.io/postgresql), 
 [Server](https://parada-em.github.io/Server),
 [VPN](https://parada-em.github.io/VPN)
