@@ -27,6 +27,7 @@
 + Jitsupa Kraitruadpon
     + [GitHub](https://github.com/jitsupa2004) [Page](https://jitsupa2004.github.io)
     + [Project](https://jitsupa2004.github.io/Project)
+    + [Networking](https://jitsupa2004.github.io/Networking), [Programming](https://jitsupa2004.github.io/Programming), [Data](https://jitsupa2004.github.io/Data)
 + Jittraporn Kraitruadpon
     + [GitHub](https://github.com/jittraporn928262-bit) [Page](https://jittraporn928262-bit.github.io)
 + Kiadtisak Numon
@@ -57,12 +58,15 @@
 [Big Data](https://kitisakg.github.io/big-data),
 [CI/CD](https://tida492547.github.io/cicd),
 [Cybersecurity](https://kitisakg.github.io/cybersecurity),
+[Data](https://jitsupa2004.github.io/Data),
 [Docker](https://tida492547.github.io/docker),
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
 [Internet](https://parada-em.github.io/Internet),
 [Microservices](https://tida492547.github.io/microservices),
+[Networking](https://jitsupa2004.github.io/Networking),
 [ORM](https://sximi.github.io/orm),
 [PostgreSQL](https://naxkaittisak.github.io/postgresql),
+[Programming](https://jitsupa2004.github.io/Programming),
 [Rate Limiting](https://sximi.github.io/rate-limiting),
 [Server](https://parada-em.github.io/Server),
 [VPN](https://parada-em.github.io/VPN),
