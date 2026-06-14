@@ -38,6 +38,7 @@
     + [AI](https://kitisakg.github.io/artificial-intelligence), [Cybersecurity](https://kitisakg.github.io/cybersecurity), [Big Data](https://kitisakg.github.io/big-data)
 + Noppadon Subbun
     + [GitHub](https://github.com/Doctor987) [Page](https://Doctor987.github.io)
+    + [Cloud Computing](https://doctor987.github.io/Cloud-Computing), [SDN](https://doctor987.github.io/Software-Defined-Networking)
 + Parada Sangpiti
     + [GitHub](https://github.com/parada-em) [Page](https://parada-em.github.io)
     + [VPN](https://parada-em.github.io/VPN), [Server](https://parada-em.github.io/Server), [Internet](https://parada-em.github.io/Internet)
@@ -57,6 +58,7 @@
 [API](https://naxkaittisak.github.io/api),
 [Big Data](https://kitisakg.github.io/big-data),
 [CI/CD](https://tida492547.github.io/cicd),
+[Cloud Computing](https://doctor987.github.io/Cloud-Computing),
 [Cybersecurity](https://kitisakg.github.io/cybersecurity),
 [Data](https://jitsupa2004.github.io/Data),
 [Docker](https://tida492547.github.io/docker),
@@ -69,5 +71,6 @@
 [Programming](https://jitsupa2004.github.io/Programming),
 [Rate Limiting](https://sximi.github.io/rate-limiting),
 [Server](https://parada-em.github.io/Server),
+[SDN](https://doctor987.github.io/Software-Defined-Networking),
 [VPN](https://parada-em.github.io/VPN),
 [Webhook](https://sximi.github.io/webhook)
