@@ -30,7 +30,7 @@
     + [Networking](https://jitsupa2004.github.io/Networking), [Programming](https://jitsupa2004.github.io/Programming), [Data](https://jitsupa2004.github.io/Data)
 + Jittraporn Kraitruadpon
     + [GitHub](https://github.com/jittraporn928262-bit) [Page](https://jittraporn928262-bit.github.io)
-    + [Hardware](https://jittraporn928262-bit.github.io/Hardware)
+    + [Hardware](https://jittraporn928262-bit.github.io/Hardware), [Firmware](https://jittraporn928262-bit.github.io/Firmware)
 + Kiadtisak Numon
     + [GitHub](https://github.com/naxkaittisak) [Page](https://naxkaittisak.github.io)
     + [Full-Stack](https://naxkaittisak.github.io/full-stack), [PostgreSQL](https://naxkaittisak.github.io/postgresql), [API](https://naxkaittisak.github.io/api)
@@ -63,6 +63,7 @@
 [Cybersecurity](https://kitisakg.github.io/cybersecurity),
 [Data](https://jitsupa2004.github.io/Data),
 [Docker](https://tida492547.github.io/docker),
+[Firmware](https://jittraporn928262-bit.github.io/Firmware)
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
 [Hardware](https://jittraporn928262-bit.github.io/Hardware),
 [Internet](https://parada-em.github.io/Internet),
