@@ -9,7 +9,7 @@
 [![Picture of IT12](attendance/2026-06-07.jpg "IT12 of IVECR-5 on June 1, 2026")](attendance/2026-06-07_o.jpg)
 + Jun 14 [[Clip](https://youtu.be/Uc3szVozwyA)]
 + Jun 21 [[Clip](https://youtu.be/I4P0z7kFNzY)]
-+ Jun 28
++ Jun 28 [[Clip](https://youtu.be/FycLEY82Jxw)]
 + Jul 5
 + Jul 12
 + Jul 19
