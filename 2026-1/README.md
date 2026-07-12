@@ -11,7 +11,7 @@
 + Jun 21 [[Clip](https://youtu.be/I4P0z7kFNzY)]
 + Jun 28 [[Clip](https://youtu.be/FycLEY82Jxw)]
 + Jul 5
-+ Jul 12
++ Jul 12 [[Clip](https://youtu.be/pAc1WqUC--c)]
 + Jul 19
 
 
