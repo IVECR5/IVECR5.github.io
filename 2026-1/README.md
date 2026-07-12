@@ -11,7 +11,7 @@
 + Jun 21 [[Clip](https://youtu.be/I4P0z7kFNzY)]
 + Jun 28 [[Clip](https://youtu.be/FycLEY82Jxw)]
 + Jul 5
-[![Picture of IT12](attendance/2026-07-05.jpg "IT12 of IVECR-5 on July 5, 2026")](attendance/2026-07-05_1_o.jpg)
+[![Picture of IT12](attendance/2026-07-05.jpg "IT12 of IVECR-5 on July 5, 2026")](https://www.facebook.com/share/p/1DPiQcBf5V/)
 + Jul 12 [[Clip](https://youtu.be/pAc1WqUC--c)]
 + Jul 19
 
