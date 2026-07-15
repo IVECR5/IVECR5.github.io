@@ -29,6 +29,7 @@
     + [GitHub](https://github.com/jitsupa2004) [Page](https://jitsupa2004.github.io)
     + [Project](https://jitsupa2004.github.io/Project)
     + [Networking](https://jitsupa2004.github.io/Networking), [Programming](https://jitsupa2004.github.io/Programming), [Data](https://jitsupa2004.github.io/Data)
+    + [Availability](https://tida492547.github.io/Availability/)
 + Jittraporn Kraitruadpon
     + [GitHub](https://github.com/jittraporn928262-bit) [Page](https://jittraporn928262-bit.github.io)
     + [Hardware](https://jittraporn928262-bit.github.io/Hardware), [Firmware](https://jittraporn928262-bit.github.io/Firmware)
@@ -53,6 +54,7 @@
     + [GitHub](https://github.com/tida492547) [Page](https://tida492547.github.io)
     + [Docker](https://tida492547.github.io/docker/), [Microservices](https://tida492547.github.io/microservices/), [CI/CD](https://tida492547.github.io/cicd/)
     + [Online IDE](https://tida492547.github.io/Online-IDE/), [Physics Learning](https://tida492547.github.io/physics-learning/)
+    + [Availability](https://tida492547.github.io/Availability/)
 
 ## Special Activity
 + TBA
@@ -60,6 +62,7 @@
 ## Keyword(s)
 [AI](https://kitisakg.github.io/artificial-intelligence),
 [API](https://naxkaittisak.github.io/api),
+[Availability](https://tida492547.github.io/Availability/),
 [Big Data](https://kitisakg.github.io/big-data),
 [CI/CD](https://tida492547.github.io/cicd),
 [Cloud Computing](https://doctor987.github.io/Cloud-Computing),
