@@ -50,7 +50,7 @@
     + [GitHub](https://github.com/yearsumit311247) [Page](https://yearsumit311247.github.io)
 + Tanapat Oumphed
     + [GitHub](https://github.com/JoTnp) [Page](https://JoTnp.github.io)
-    + [LAMP](https://jotnp.github.io/LAMP-Architecture/)
+    + [LAMP](https://jotnp.github.io/LAMP-Architecture/), [Print Media Management](https://jotnp.github.io/Print-Media-Management/)
 + Tida Jaewsakul
     + [GitHub](https://github.com/tida492547) [Page](https://tida492547.github.io)
     + [Docker](https://tida492547.github.io/docker/), [Microservices](https://tida492547.github.io/microservices/), [CI/CD](https://tida492547.github.io/cicd/)
@@ -83,6 +83,7 @@
 [ORM](https://sximi.github.io/orm),
 [Physics Learning](https://tida492547.github.io/physics-learning/),
 [PostgreSQL](https://naxkaittisak.github.io/postgresql),
+[Print Media Management](https://jotnp.github.io/Print-Media-Management/),
 [Programming](https://jitsupa2004.github.io/Programming),
 [Rate Limiting](https://sximi.github.io/rate-limiting),
 [Server](https://parada-em.github.io/Server),
