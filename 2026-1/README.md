@@ -51,6 +51,7 @@
 + Tida Jaewsakul
     + [GitHub](https://github.com/tida492547) [Page](https://tida492547.github.io)
     + [Docker](https://tida492547.github.io/docker/), [Microservices](https://tida492547.github.io/microservices/), [CI/CD](https://tida492547.github.io/cicd/)
+    + [Online IDE](https://tida492547.github.io/Online-IDE/), [Physics Learning](https://tida492547.github.io/physics-learning/)
 
 ## Special Activity
 + TBA
@@ -70,7 +71,9 @@
 [Internet](https://parada-em.github.io/Internet),
 [Microservices](https://tida492547.github.io/microservices),
 [Networking](https://jitsupa2004.github.io/Networking),
+[Online IDE](https://tida492547.github.io/Online-IDE/),
 [ORM](https://sximi.github.io/orm),
+[Physics Learning](https://tida492547.github.io/physics-learning/),
 [PostgreSQL](https://naxkaittisak.github.io/postgresql),
 [Programming](https://jitsupa2004.github.io/Programming),
 [Rate Limiting](https://sximi.github.io/rate-limiting),
