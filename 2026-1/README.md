@@ -44,6 +44,7 @@
 + Parada Sangpiti
     + [GitHub](https://github.com/parada-em) [Page](https://parada-em.github.io)
     + [VPN](https://parada-em.github.io/VPN), [Server](https://parada-em.github.io/Server), [Internet](https://parada-em.github.io/Internet)
+    + [Network Security](https://parada-em.github.io/Network-Security)
 + Sumit Pariwong
     + [GitHub](https://github.com/yearsumit311247) [Page](https://yearsumit311247.github.io)
 + Tanapat Oumphed
@@ -71,6 +72,7 @@
 [Internet](https://parada-em.github.io/Internet),
 [Microservices](https://tida492547.github.io/microservices),
 [Networking](https://jitsupa2004.github.io/Networking),
+[Network Security](https://parada-em.github.io/Network-Security),
 [Online IDE](https://tida492547.github.io/Online-IDE/),
 [ORM](https://sximi.github.io/orm),
 [Physics Learning](https://tida492547.github.io/physics-learning/),
