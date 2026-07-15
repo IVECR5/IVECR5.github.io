@@ -50,6 +50,7 @@
     + [GitHub](https://github.com/yearsumit311247) [Page](https://yearsumit311247.github.io)
 + Tanapat Oumphed
     + [GitHub](https://github.com/JoTnp) [Page](https://JoTnp.github.io)
+    + [LAMP](https://jotnp.github.io/LAMP-Architecture/)
 + Tida Jaewsakul
     + [GitHub](https://github.com/tida492547) [Page](https://tida492547.github.io)
     + [Docker](https://tida492547.github.io/docker/), [Microservices](https://tida492547.github.io/microservices/), [CI/CD](https://tida492547.github.io/cicd/)
@@ -73,6 +74,7 @@
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
 [Hardware](https://jittraporn928262-bit.github.io/Hardware),
 [Internet](https://parada-em.github.io/Internet),
+[LAMP](https://jotnp.github.io/LAMP-Architecture/),
 [Microservices](https://tida492547.github.io/microservices),
 [Networking](https://jitsupa2004.github.io/Networking),
 [Network Security](https://parada-em.github.io/Network-Security),
