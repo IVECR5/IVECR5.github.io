@@ -37,6 +37,7 @@
 + Kiadtisak Numon
     + [GitHub](https://github.com/naxkaittisak) [Page](https://naxkaittisak.github.io)
     + [Full-Stack](https://naxkaittisak.github.io/full-stack), [PostgreSQL](https://naxkaittisak.github.io/postgresql), [API](https://naxkaittisak.github.io/api)
+    + [Dashboard](https://naxkaittisak.github.io/dashboard)
 + Kitisak Duangnuam
     + [GitHub](https://github.com/kitisakG) [Page](https://kitisakg.github.io)
     + [AI](https://kitisakg.github.io/artificial-intelligence), [Cybersecurity](https://kitisakg.github.io/cybersecurity), [Big Data](https://kitisakg.github.io/big-data)
