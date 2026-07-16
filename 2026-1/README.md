@@ -25,6 +25,7 @@
 + Jantaras Temtong
     + [GitHub](https://github.com/sximi) [Page](https://sximi.github.io)
     + [Webhook](https://sximi.github.io/webhook), [ORM](https://sximi.github.io/orm), [Rate Limiting](https://sximi.github.io/rate-limiting)
+    + [Cross Platform Development](https://sximi.github.io/cross-platform-development/), [Data Integration](https://sximi.github.io/data-integration/)
 + Jitsupa Kraitruadpon
     + [GitHub](https://github.com/jitsupa2004) [Page](https://jitsupa2004.github.io)
     + [Project](https://jitsupa2004.github.io/Project)
@@ -69,8 +70,10 @@
 [Big Data](https://kitisakg.github.io/big-data),
 [CI/CD](https://tida492547.github.io/cicd),
 [Cloud Computing](https://doctor987.github.io/Cloud-Computing),
+[Cross Platform Development](https://sximi.github.io/cross-platform-development/),
 [Cybersecurity](https://kitisakg.github.io/cybersecurity),
 [Data](https://jitsupa2004.github.io/Data),
+[Data Integration](https://sximi.github.io/data-integration/),
 [Docker](https://tida492547.github.io/docker),
 [Firmware](https://jittraporn928262-bit.github.io/Firmware)
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
