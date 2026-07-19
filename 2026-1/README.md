@@ -57,6 +57,7 @@
     + [GitHub](https://github.com/yearsumit311247) [Page](https://yearsumit311247.github.io)
     + [Usability](https://kitisakg.github.io/Usabillity)
     + [Bootstrap](https://yearsumit311247.github.io/bootstrap)
+    + [Digital Manufacturing](https://yearsumit311247.github.io/Digital-Manufacturing)
 + Tanapat Oumphed
     + [GitHub](https://github.com/JoTnp) [Page](https://JoTnp.github.io)
     + [LAMP](https://jotnp.github.io/LAMP-Architecture/), [Print Media Management](https://jotnp.github.io/Print-Media-Management/)
@@ -83,6 +84,7 @@
 [Dashboard](https://naxkaittisak.github.io/dashboard),
 [Data](https://jitsupa2004.github.io/Data),
 [Data Integration](https://sximi.github.io/data-integration/),
+[Digital Manufacturing](https://yearsumit311247.github.io/Digital-Manufacturing),
 [Docker](https://tida492547.github.io/docker),
 [Firmware](https://jittraporn928262-bit.github.io/Firmware)
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
