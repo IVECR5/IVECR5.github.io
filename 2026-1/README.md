@@ -26,6 +26,7 @@
     + [GitHub](https://github.com/sximi) [Page](https://sximi.github.io)
     + [Webhook](https://sximi.github.io/webhook), [ORM](https://sximi.github.io/orm), [Rate Limiting](https://sximi.github.io/rate-limiting)
     + [Cross Platform Development](https://sximi.github.io/cross-platform-development/), [Data Integration](https://sximi.github.io/data-integration/)
+    + [Project](https://sximi.github.io/Project)
 + Jitsupa Kraitruadpon
     + [GitHub](https://github.com/jitsupa2004) [Page](https://jitsupa2004.github.io)
     + [Project](https://jitsupa2004.github.io/Project)
