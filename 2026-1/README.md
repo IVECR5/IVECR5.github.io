@@ -49,6 +49,7 @@
     + [GitHub](https://github.com/Doctor987) [Page](https://Doctor987.github.io)
     + [Cloud Computing](https://doctor987.github.io/Cloud-Computing), [SDN](https://doctor987.github.io/Software-Defined-Networking)
     + [Testability](https://doctor987.github.io/Testability/)
+    + [Image Processing](https://doctor987.github.io/Image-Processing/), [Object Detection](https://doctor987.github.io/Object-Detection/)
 + Parada Sangpiti
     + [GitHub](https://github.com/parada-em) [Page](https://parada-em.github.io)
     + [VPN](https://parada-em.github.io/VPN), [Server](https://parada-em.github.io/Server), [Internet](https://parada-em.github.io/Internet)
@@ -90,6 +91,7 @@
 [Firmware](https://jittraporn928262-bit.github.io/Firmware)
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
 [Hardware](https://jittraporn928262-bit.github.io/Hardware),
+[Image Processing](https://doctor987.github.io/Image-Processing/),
 [Internet](https://parada-em.github.io/Internet),
 [IoT Development Board](https://kitisakg.github.io/IoT-Development-Board),
 [LAMP](https://jotnp.github.io/LAMP-Architecture/),
@@ -98,6 +100,7 @@
 [Networking](https://jitsupa2004.github.io/Networking),
 [Network Security](https://parada-em.github.io/Network-Security),
 [Node.js](https://naxkaittisak.github.io/node-js),
+[Object Detection](https://doctor987.github.io/Object-Detection/),
 [Online IDE](https://tida492547.github.io/Online-IDE/),
 [Operational Cost](https://parada-em.github.io/Operational-Cost),
 [ORM](https://sximi.github.io/orm),
