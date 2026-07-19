@@ -66,6 +66,7 @@
     + [LAMP](https://jotnp.github.io/LAMP-Architecture/), [Print Media Management](https://jotnp.github.io/Print-Media-Management/)
     + [Testability](https://jotnp.github.io/Testability/)
     + [Project](https://jotnp.github.io/PROJECT)
+    + [Function](https://jotnp.github.io/Function/), [Framework](https://jotnp.github.io/Framework/), [IoT](https://jotnp.github.io/IoT/)
 + Tida Jaewsakul
     + [GitHub](https://github.com/tida492547) [Page](https://tida492547.github.io)
     + [Docker](https://tida492547.github.io/docker/), [Microservices](https://tida492547.github.io/microservices/), [CI/CD](https://tida492547.github.io/cicd/)
@@ -91,10 +92,13 @@
 [Digital Manufacturing](https://yearsumit311247.github.io/Digital-Manufacturing),
 [Docker](https://tida492547.github.io/docker),
 [Firmware](https://jittraporn928262-bit.github.io/Firmware),
+[Framework](https://jotnp.github.io/Framework/),
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
+[Function](https://jotnp.github.io/Function/),
 [Hardware](https://jittraporn928262-bit.github.io/Hardware),
 [Image Processing](https://doctor987.github.io/Image-Processing/),
 [Internet](https://parada-em.github.io/Internet),
+[IoT](https://jotnp.github.io/IoT/),
 [IoT Development Board](https://kitisakg.github.io/IoT-Development-Board),
 [LAMP](https://jotnp.github.io/LAMP-Architecture/),
 [Meeting Room Management](https://jitsupa2004.github.io/meeting-room-management/),
