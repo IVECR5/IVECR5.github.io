@@ -13,7 +13,7 @@
 + Jul 5
 [![Picture of IT12](attendance/2026-07-05.jpg "IT12 of IVECR-5 on July 5, 2026")](https://www.facebook.com/share/p/1DPiQcBf5V/)
 + Jul 12 [[Clip](https://youtu.be/pAc1WqUC--c)]
-+ Jul 19
++ Jul 19 [[Clip](https://youtu.be/vrDufeKqyBo)]
 
 
 ## Lecturer
