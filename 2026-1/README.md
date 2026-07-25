@@ -37,7 +37,8 @@
 + Jittraporn Kraitruadpon
     + [GitHub](https://github.com/jittraporn928262-bit) [Page](https://jittraporn928262-bit.github.io)
     + [Hardware](https://jittraporn928262-bit.github.io/Hardware), [Firmware](https://jittraporn928262-bit.github.io/Firmware)
-    + [Maintainability](https://sximi.github.io/maintainability/)
+    + [Maintainability](https://jittraporn928262-bit.github.io/maintainability/)
+    + [Grafana](https://jittraporn928262-bit.github.io/Grafana/)
 + Kiadtisak Numon
     + [GitHub](https://github.com/naxkaittisak) [Page](https://naxkaittisak.github.io)
     + [Full-Stack](https://naxkaittisak.github.io/full-stack), [PostgreSQL](https://naxkaittisak.github.io/postgresql), [API](https://naxkaittisak.github.io/api)
@@ -97,6 +98,7 @@
 [Framework](https://jotnp.github.io/Framework/),
 [Full-Stack](https://naxkaittisak.github.io/full-stack),
 [Function](https://jotnp.github.io/Function/),
+[Grafana](https://jittraporn928262-bit.github.io/Grafana/),
 [Hardware](https://jittraporn928262-bit.github.io/Hardware),
 [Image Processing](https://doctor987.github.io/Image-Processing/),
 [Internet](https://parada-em.github.io/Internet),
