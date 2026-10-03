@@ -199,6 +199,7 @@
 [![Picture IT11](in-class-02.jpg "IT11 of IVECR-5")](in-class-02_o.jpg)
 
 ## Misc.
++ [Computer Security - The Foundations by Krerk Piromsopa, Ph.D.](https://www.cp.eng.chula.ac.th/~krerk/books/ComputerSecurity/)
 + [ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams](https://www.isc2.org/landing/1mcc)
 + [CISSP Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
 + [Cloud Security Glossary](https://cloudsecurityalliance.org/cloud-security-glossary)
